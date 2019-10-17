@@ -24,18 +24,18 @@ Don't just stick to these places though, take lots of unscheduled stops and the 
 Ok, let's get started!
 
 ## Itinery Overview
-**Day 1**: Þingvellir, Almannagjá Rift, Geysir, Seljalandsfoss, Skógafoss
-**Day 2**: Dyrhólaey, Reynisfjara Beach, Pjadrurfoss, Vatnajökull, Skaftafell, Diamond Beach 
-**Day 3**: Hoffell hot tubs, Vestrahorn Mountain, The Viking Village, Lagarfljót
-**Day 4**: Seyðisfjörður, Dettifoss, Dimmuborgir, Krafla, Námaskarð, Mývatn
-**Day 5**: Húsavík, Mývatn Nature Baths, Grjótagjá Cave, Goðafoss
-**Day 6**: Akureyri old town, Þingeyrarkirkja
-**Day 7**: Snæfellsnes, Hellnar, Arnarstapi
-**Day 8**: Reykjavík, Sun Voyager, Hallgrimskirkja
+- **Day 1**: Þingvellir, Almannagjá Rift, Geysir, Seljalandsfoss, Skógafoss
+- **Day 2**: Dyrhólaey, Reynisfjara, Pjadrurfoss, Vatnajökull, Skaftafell, Diamond Beach 
+- **Day 3**: Hoffell hot tubs, Vestrahorn Mountain, The Viking Village, Lagarfljót
+- **Day 4**: Seyðisfjörður, Dettifoss, Dimmuborgir, Krafla, Námaskarð, Mývatn
+- **Day 5**: Húsavík, Mývatn Nature Baths, Grjótagjá Cave, Goðafoss
+- **Day 6**: Akureyri old town, Þingeyrarkirkja
+- **Day 7**: Snæfellsnes, Hellnar, Arnarstapi
+- **Day 8**: Reykjavík, Sun Voyager, Hallgrimskirkja
 
 
 ## Day 1
-**Reykjavik to Hvolsvöllur**
+### Reykjavik to Hvolsvöllur
 
 ![alt text][seljalandsfoss]
 
