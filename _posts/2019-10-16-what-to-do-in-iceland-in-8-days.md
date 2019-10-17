@@ -33,6 +33,7 @@ Ok, let's get started!
 - **Day 7**: Snæfellsnes, Hellnar, Arnarstapi
 - **Day 8**: Reykjavík, Sun Voyager, Hallgrimskirkja
 
+<!-- more -->
 
 ## Day 1
 ### Reykjavik to Hvolsvöllur
@@ -51,7 +52,7 @@ Ok, let's get started!
 
 Day 1 description here
 
-<!-- more -->
+
 
 
 [map]: /assets/iceland/map.jpg "Map of the route around Iceland and stops"
