@@ -1,52 +1,61 @@
 <!-- Update your html tag to include the itemscope and itemtype attributes. -->
 <html itemscope itemtype="http://schema.org/Article">
 
+<meta charset="utf-8" />
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
 {% if page.title and page.layout == 'page' %}
-{% assign page_title = page.title | append: ' - ' | append: site.title | escape %}
+  {% assign page_title = page.title | append: ' - ' | append: site.name | escape %}
 {% elsif page.title %}
-{% assign page_title = page.title | escape %}
+  {% assign page_title = page.title | escape %}
 {% else %}
-{% assign page_title = site.title | escape %}
+  {% assign page_title = site.name | escape %}
 {% endif %}
 
 {% if page.author.name or page.facebook.publisher_id %}
-{% assign page_author = page.author.name | default: nil | escape %}
-{% assign facebook_publisher_id = page.facebook.publisher_id | default: nil | escape %}
-{% assign twitter_creator = page.twitter.username | default: site.twitter.site | default: nil | escape %}
-{% assign facebook_authors = page.facebook.authors | default: nil | escape %}
+  {% assign page_author = page.author.name | default: nil | escape %}
+  {% assign facebook_publisher_id = page.facebook.publisher_id | default: nil | escape %}
+  {% assign twitter_creator = page.twitter.username | default: site.twitter.site | default: nil | escape %}
+  {% assign facebook_authors = page.facebook.authors | default: nil | escape %}
 {% else %}
-{% assign page_author = site.author.name | default: nil | escape %}
-{% assign facebook_publisher_id = site.facebook.publisher_id | default: nil | escape %}
-{% assign twitter_creator = site.twitter.username | default: nil | escape %}
-{% assign facebook_authors = site.facebook.authors | default: nil | escape %}
+  {% assign page_author = site.name | default: nil | escape %}
+  {% assign facebook_publisher_id = site.facebook.publisher_id | default: nil | escape %}
+  {% assign twitter_creator = site.twitter.username | default: nil | escape %}
+  {% assign facebook_authors = site.facebook.authors | default: nil | escape %}
 {% endif %}
 
 {% assign page_description = page.excerpt | default: page.tagline | default: site.description | strip_html | normalize_whitespace | truncate: 300 | escape %}
 
 {%if page.image %}
-{% assign page_image = site.url | append: site.baseurl | append: page.image %}
+  {% assign page_image = site.url | append: site.baseurl | append: page.image %}
 {%else if site.image %}
-{% assign page_image = site.url | append: site.baseurl | append: site.image %}
+  {% assign page_image = site.url | append: site.baseurl | append: site.image %}
 {%endif %}
 
 {% assign canonical_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
 
 <!-- Place this data between the <head> tags of your website -->
+
+{% if page.excerpt %}
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+{% else %}
+<link rel="canonical" href="{{ site.url }}">
+{% endif %}
+
 {%if page_author %}
 <meta name="author" content="{{ page_author }}" />
 {%endif %}
 <meta name="description" content="{{ page_description }}" />
 {%if page.tags.size > 0 %}
-<meta name="keywords" itemprop="tags"
-  content="{{ page.tags | join: ', ' | escape }}" />
+<meta name="keywords" itemprop="tags" content="{{ page.tags | join: ', ' | escape }}" />
 {%endif %}
 {%if page.keywords %}
-<meta name="keywords" itemprop="keywords"
-  content="{{ page.keywords | escape  }}" />
+<meta name="keywords" itemprop="keywords" content="{{ page.keywords | escape  }}" />
 {%endif %}
 {%if page.categories.size > 0 %}
-<meta name="keywords" itemprop="categories"
-  content="{{ page.categories | join: ', ' | escape  }}" />
+<meta name="keywords" itemprop="categories" content="{{ page.categories | join: ', ' | escape  }}" />
 {%endif %}
 {%if page.category %}
 <meta name="keywords" itemprop="category" content="{{ category | escape  }}" />
@@ -61,18 +70,14 @@
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" content="summary_large_image" />
-
 {%if site.twitter.site %}
 <meta name="twitter:site" content="@{{ site.twitter.site }}" />
 {%endif %}
-
 <meta name="twitter:title" content="{{ page_title }}" />
 <meta name="twitter:description" content="{{ page_description }}" />
-
 {%if twitter_creator %}
 <meta name="twitter:creator" content="@{{ twitter_creator }}" />
 {%endif %}
-
 <!-- Twitter summary card with large image must be at least 280x150px -->
 {%if page_image %}
 <meta name="twitter:image:src" content="{{ page_image }}" />
@@ -126,7 +131,6 @@
   content="https://www.facebook.com/{{ fb_author }}" />
 {% endfor %}
 {%endif %}
-
 
 {%if page.tags %}
 {% for tag in page.tags %}
