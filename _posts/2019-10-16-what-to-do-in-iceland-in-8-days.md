@@ -75,9 +75,18 @@ This article will start with a overview and then it'll go into more detail. Ok, 
  **Where to stay**
  * Guesthouse Rauðafell, Hvolsvöllur (via AirBnB)
 
-Day 1 description here
+<!-- 
+  Notes 
+    - set out pretty early, went to the rift which connects two tectonic plates (North
+    American and Eurasian). The rift itself is 7km wide and it grows a bit each year as the plates move apart
+    so Iceland is technically getting bigger. It also sinks 2cm a year due to this too
 
 
+    
+-->
+
+## Day 2
+### Hvolsvöllur to Hofn
 
 
 [map]: /assets/iceland/map.jpg "Map of the route around Iceland and stops"
