@@ -33,7 +33,7 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 - **Accomodation**: Central Reykjavík (AirBnB)
 
 ### Day 1
-- **Sites**: Þingvellir, Almannagjá Rift, Geysir, Seljalandsfoss, Skógafoss
+- **Sites**: Þingvellir, Almannagjá Rift,  Haukadalur Geothermal Valley, Seljalandsfoss, Skógafoss
 - **Accomodation**: Guesthouse Rauðafell, Hvolsvöllur (AirBnB)
 
 ### Day 2
@@ -74,22 +74,22 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 **Things to see**
  - Þingvellir National Park
  - Almannagjá Rift
- - The Great Geysir
+ - Haukadalur Geothermal Valley
  - Seljalandsfoss
  - Skógafoss
 
  **Where to stay**
  - Guesthouse Rauðafell, Hvolsvöllur (via AirBnB)
   
-  First up is **Þingvellir National Park** which contains the a rift between two tectonic plates, the North American plate and the Eurasian plate. 
+  First up is **Þingvellir National Park** which a moss blanketed area in between the North American plate and Eurasian tectonic plates. 
   
-  The rift itself is 7km wide and it grows a bit each year as the plates move apart, Iceland is technically getting bigger! It, however, sinks roughly 2cm a year due to this.
+  The area is 7km wide and it grows a bit each year as the plates slowly move apart. Iceland is technically getting bigger! It, however, sinks roughly 2cm a year due to this.
 
   The rift is also featured in Games of Thrones. It is the location of the Bloody Gate, leading up to The Eyrie where the Hound takes Arya Stark to be reunited with her aunt.
 
   Take the time to walk around a bit here, you can walk along the rift to **Öxarárfoss** waterfall too.
 
-  Next up is the **Geysir geothermal area**. which contains two main geysers. The Great Geysir, which has been dormant for years and rarely erupts, and neighbouring Strokkur, which erupts every 5 minutes or so and sends boiling water and steam upwards up to 30 metres. This area is home to the first geyser known to Europe.
+  Next up is the **Haukadalur Geothermal Valley**. which contains two main geysers. The Great Geysir, which has been dormant for years and rarely erupts, and neighbouring Strokkur, which erupts every 5 minutes or so and sends boiling water and steam upwards up to 30 metres. This area is home to the first geyser known to Europe.
 
   [pic or video of geyser erupting], width 500px
 
