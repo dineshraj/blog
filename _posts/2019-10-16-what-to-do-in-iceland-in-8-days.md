@@ -19,19 +19,44 @@ and point out the best things to see and some great places to stay too.
 
 Don't just stick to these places though, take lots of unscheduled stops and the various laybys on the ring road, there is so much beautiful scenery between these places so don't miss out on those!
 
-(Note: Most guides will tell you to visit the Blue Lagoon first but due to a delayed flight, that didn't happen in this trip. I hear it's beautiful but very expensive).
+(Note: Most guides will tell you to visit the Blue Lagoon first but due to a delayed flight, that didn't happen on this trip. I hear it's beautiful but very expensive).
 
-Ok, let's get started!
+This article will start with a overview and then it'll go into more detail. Ok, let's get started!
+
+***Note on the weather**: Unfortunately the weather was not ideal during the entire duration of the trip, and apart from a couple of days it was constantly cloudy and rainy, with not a clear night at all. This meant we could not see any stars or the nothern lights, whether this is typical for October or not, I'm not sure*
 
 ## Itinery Overview
-- **Day 1**: Þingvellir, Almannagjá Rift, Geysir, Seljalandsfoss, Skógafoss
-- **Day 2**: Dyrhólaey, Reynisfjara, Pjadrurfoss, Vatnajökull, Skaftafell, Diamond Beach 
-- **Day 3**: Hoffell hot tubs, Vestrahorn Mountain, The Viking Village, Lagarfljót
-- **Day 4**: Seyðisfjörður, Dettifoss, Dimmuborgir, Krafla, Námaskarð, Mývatn
-- **Day 5**: Húsavík, Mývatn Nature Baths, Grjótagjá Cave, Goðafoss
-- **Day 6**: Akureyri old town, Þingeyrarkirkja
-- **Day 7**: Snæfellsnes, Hellnar, Arnarstapi
-- **Day 8**: Reykjavík, Sun Voyager, Hallgrimskirkja
+### Day 1
+- **Sites**: Þingvellir, Almannagjá Rift, Geysir, Seljalandsfoss, Skógafoss
+- **Accomodation**: Guesthouse Rauðafell, Hvolsvöllur (AirBnB)
+
+### Day 2
+- **Sites**: Dyrhólaey, Reynisfjara, Pjadrurfoss, Vatnajökull, Skaftafell, Diamond Beach 
+- **Accomodation**: Þórshamar, Höfn  (AirBnB)
+
+### Day 3
+- **Sites**: Hoffell hot tubs, Vestrahorn Mountain, The Viking Village, Lagarfljót
+- **Accomodation**: Tehúsið Hostel, Egilsstaðir (AirBnB)
+
+### Day 4
+- **Sites**: Seyðisfjörður, Dettifoss, Dimmuborgir, Krafla, Námaskarð, Mývatn
+- **Accomodation**: Fosshotel, Húsavík (Booking.com)
+
+### Day 5
+- **Sites**: Húsavík, Mývatn Nature Baths, Grjótagjá Cave, Goðafoss
+- **Accomodation**: Apotek Guesthouse, Akureyri (Booking.com)
+
+### Day 6
+- **Sites**: Akureyri old town, Þingeyrarkirkja
+- **Accomodation**: West Park Guesthouse, Snæfellsjökull (AirBnB)
+
+### Day 7
+- **Sites**: Snæfellsnes, Hellnar, Arnarstapi
+- **Accomodation**: Garðastræti, Reykjavík (AirBnB)
+
+### Day 8
+- **Sites**: Reykjavík, Sun Voyager, Hallgrimskirkja
+- **Accomodation**: Garðastræti, Reykjavík (AirBnB)
 
 <!-- more -->
 
@@ -48,7 +73,7 @@ Ok, let's get started!
  * Skógafoss
 
  **Where to stay**
- * Guesthouse Rauðafell, Hvolsvöllur (via AirBnb)
+ * Guesthouse Rauðafell, Hvolsvöllur (via AirBnB)
 
 Day 1 description here
 
