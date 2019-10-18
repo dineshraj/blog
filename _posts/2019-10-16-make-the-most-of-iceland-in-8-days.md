@@ -37,7 +37,7 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 - **Accomodation**: Guesthouse Rauðafell, Hvolsvöllur (AirBnB)
 
 ### Day 2
-- **Sites**: Dyrhólaey, Reynisfjara, Pjadrurfoss, Vatnajökull, Skaftafell, Diamond Beach 
+- **Sites**: Dyrhólaey, Reynisfjara, Skaftareldahraun, Pjadrurfoss, Vatnajökull, Skaftafell, Diamond Beach 
 - **Accomodation**: Þórshamar, Höfn (AirBnB)
 
 ### Day 3
@@ -97,11 +97,9 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 
   [video of selvalandfoss]
 
-  THere is a plane wreck on the route after Seljalandsfoss called **DC-3 Plane Wreckage**, which crashed in 1973. The fusalage was abandoned there afterwards. It's a 4km hike over very dull black sand terrain (or you can take a expensive shuttle bus), so we didn't venture out to see it, but it could be a good photo opportunity.
-
   Next up on the route is **Skógafoss**, which is a powerful waterfall with a viewing platform to the side. It's an impressive 25 meters wide and 60 meters tall.
 
-  If you've taken your time seeing all the beautiful sites, light is probably fading by now, but there is a Bistro Bar nearby Skógafoss and the recommended **Guesthouse Rauðafell** is just a short drive away in **Hvolsvöllur**. The guest house is large, modern and spotless and has 6 rooms for guests. There is also a breakfast provided in the morning.
+  If you've taken your time seeing all the beautiful sites, light is probably fading by now, but there is a Bistro Bar nearby Skógafoss and the recommended **Guesthouse Rauðafell** is just a short drive away in **Hvolsvöllur**. The guest house is large modern and spotless and has 6 rooms for guests. There is also a breakfast provided in the morning.
 
   [pic of guest house]
 
@@ -111,6 +109,7 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 **Things to see**
  - Dyrhólaey
  - Reynisfjara
+ - Skaftareldahraun
  - Pjadrurfoss
  - Vatnajökull
  - Skaftafell
@@ -120,6 +119,8 @@ This article will start with a overview and then it'll go into more detail. Ok, 
  - Þórshamar, Höfn (AirBnB) (LOOK THIS UP)
 
 After what will be a lovely breakfast, set out for **Dyrhólaey**, which is a mountain peninsula on a cliff with some staggering views. There is an impressive looking rock arch standing strong in the sea and a black beach down below. In the summer you can see puffins here. 
+
+ There is a plane wreck on the route before Dyrhólaey called **DC-3 Plane Wreckage**, which crashed in 1973. The fusalage was abandoned there afterwards. It's a 4km hike over very dull black sand terrain (or you can take a expensive shuttle bus), so we didn't venture out to see it, but it could be a good photo opportunity.
 
 The next stop is **Reynisfjara**, near the town of Vik. Stop here for a while an appreciate the black sand, the crashing waves and the basalt columns and rock formations. It's a truly spectacular place and if you're a city dweller it's a great chance to unwind and feel relaxed. 
 
