@@ -38,10 +38,10 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 
 ### Day 2
 - **Sites**: Dyrhólaey, Reynisfjara, Skaftareldahraun, Pjadrurfoss, Vatnajökull, Skaftafell, Diamond Beach 
-- **Accomodation**: Þórshamar, Höfn (AirBnB)
+- **Accomodation**: - Höfn í Hornafirði, Höfn (AirBnB)
 
 ### Day 3
-- **Sites**: Hoffell hot tubs, Vestrahorn Mountain, The Viking Village, Lagarfljót
+- **Sites**: Hoffell hot tubs, Stokksnes Mountain, The Viking Village, Lagarfljót
 - **Accomodation**: Tehúsið Hostel, Egilsstaðir (AirBnB)
 
 ### Day 4
@@ -81,30 +81,30 @@ This article will start with a overview and then it'll go into more detail. Ok, 
  **Where to stay**
  - Guesthouse Rauðafell, Hvolsvöllur (via AirBnB)
   
-  First up is **Þingvellir National Park** which a moss blanketed area in between the North American plate and Eurasian tectonic plates. 
-  
-  The area is 7km wide and it grows a bit each year as the plates slowly move apart. Iceland is technically getting bigger! It, however, sinks roughly 2cm a year due to this.
+First up is **Þingvellir National Park** which a moss blanketed area in between the North American plate and Eurasian tectonic plates. 
 
-  The rift is also featured in Games of Thrones. It is the location of the Bloody Gate, leading up to The Eyrie where the Hound takes Arya Stark to be reunited with her aunt.
+The area is 7km wide and it grows a bit each year as the plates slowly move apart. Iceland is technically getting bigger! It, however, sinks roughly 2cm a year due to this.
 
-  Take the time to walk around a bit here, you can walk along the rift to **Öxarárfoss** waterfall too.
+The rift is also featured in Games of Thrones. It is the location of the Bloody Gate, leading up to The Eyrie where the Hound takes Arya Stark to be reunited with her aunt.
 
-  Next up is the **Haukadalur Geothermal Valley**. which contains two main geysers. The Great Geysir, which has been dormant for years and rarely erupts, and neighbouring Strokkur, which erupts every 5 minutes or so and sends boiling water and steam upwards up to 30 metres. This area is home to the first geyser known to Europe.
+Take the time to walk around a bit here, you can walk along the rift to **Öxarárfoss** waterfall too.
 
-  [pic or video of geyser erupting], width 500px
+Next up is the **Haukadalur Geothermal Valley**. which contains two main geysers. The Great Geysir, which has been dormant for years and rarely erupts, and neighbouring Strokkur, which erupts every 5 minutes or so and sends boiling water and steam upwards up to 30 metres. This area is home to the first geyser known to Europe.
 
-  You have two more waterfalls left today. The first is the beautiful **Seljalandsfoss**, which sees glacial water falling over an indented cliff which has a large cavern carved out behind it. The cavern lets you walk behind and around it and it is an amazing experience, allowing you take in the waterfall and it's power right up close.
+{% include video.html video='/assets/iceland/strokkur.mp4' caption='Strokkur erupting at Haukadalur Geothermal Valley' %}
 
-  [video of selvalandfoss]
+You have two more waterfalls left today. The first is the beautiful **Seljalandsfoss**, which sees glacial water falling over an indented cliff which has a large cavern carved out behind it. The cavern lets you walk behind and around it and it is an amazing experience, allowing you take in the waterfall and it's power right up close.
 
-  Next up on the route is **Skógafoss**, which is a powerful waterfall with a viewing platform to the side. It's an impressive 25 meters wide and 60 meters tall.
+{% include image.html url='/assets/iceland/seljalandfoss.jpg' alt='seljalandfoss waterfall' caption='seljalandfoss waterfall' %}  
 
-  If you've taken your time seeing all the beautiful sites, light is probably fading by now, but there is a Bistro Bar nearby Skógafoss and the recommended **Guesthouse Rauðafell** is just a short drive away in **Hvolsvöllur**. The guest house is large modern and spotless and has 6 rooms for guests. There is also a breakfast provided in the morning.
+Next up on the route is **Skógafoss**, which is a powerful waterfall with a viewing platform to the side. It's an impressive 25 meters wide and 60 meters tall.
 
-  [pic of guest house]
+If you've taken your time seeing all the beautiful sites, light is probably fading by now, but there is a Bistro Bar nearby Skógafoss and the recommended **Guesthouse Rauðafell** is just a short drive away in **Hvolsvöllur**. The guest house is large modern and spotless and has 6 rooms for guests. There is also a breakfast provided in the morning.
 
 ## Day 2
 ### Hvolsvöllur to Hofn
+
+![alt text][reynisfjara]
 
 **Things to see**
  - Dyrhólaey
@@ -116,18 +116,51 @@ This article will start with a overview and then it'll go into more detail. Ok, 
  - Diamond Beach 
 
  **Where to stay**
- - Þórshamar, Höfn (AirBnB) (LOOK THIS UP)
+ - Höfn í Hornafirði, Höfn (AirBnB)
 
 After what will be a lovely breakfast, set out for **Dyrhólaey**, which is a mountain peninsula on a cliff with some staggering views. There is an impressive looking rock arch standing strong in the sea and a black beach down below. In the summer you can see puffins here. 
 
- There is a plane wreck on the route before Dyrhólaey called **DC-3 Plane Wreckage**, which crashed in 1973. The fusalage was abandoned there afterwards. It's a 4km hike over very dull black sand terrain (or you can take a expensive shuttle bus), so we didn't venture out to see it, but it could be a good photo opportunity.
+There is a plane wreck on the route before Dyrhólaey called **DC-3 Plane Wreckage**, which crashed in 1973. The fusalage was abandoned there afterwards. It's a 4km hike over very dull black sand terrain (or you can take a expensive shuttle bus), so I didn't venture out to see it, but it could be a good photo opportunity.
 
 The next stop is **Reynisfjara**, near the town of Vik. Stop here for a while an appreciate the black sand, the crashing waves and the basalt columns and rock formations. It's a truly spectacular place and if you're a city dweller it's a great chance to unwind and feel relaxed. 
 
-[picture of Reynisfjara]
+{% include image.html url='/assets/iceland/reynisfjara.jpg' alt='Reynisfjara beach' caption='Reynisfjara beach' %}
 
+After taking it the atmosphere of Reynisfjara, you'll drive to Vatnajökull National park which as some great hiking routes and a tour up the biggset glacier in Iceland. 
+
+However before that you'll go through the **Skaftareldahraun moss lava fields**, there isn't too much to see here but the bleak desolate landscape can really strike home - there is ancient black lava covered in moss as far as the eye can see. 
+
+There are also some great stops along the way, the main one of note is **Pjadrurfoss waterfall**. It's a small waterfall but the setting and the several streams of water all frothing and flowing into the main river is magnificent. 
+
+{% include image.html url='/assets/iceland/pjadrurfoss.jpg' alt='Pjadrurfoss waterfall' caption='Pjadrurfoss waterfall' %}
+
+The main attraction of the afternoon is **Vatnajökull National Park**, which is named after the biggest glacier in Iceland. It's about the size of Cyprus and  and the national park has guided tours up the glacier. You can't go on your own so you'll need a guide, which will supply the correct equipment to walk up this magnificant glacier. 
+
+If you fancy something a bit more low-key, there are great hiking trails around the **Skaftafell** area of the national park, and you are also only about a 20 minute walk from a magnificant lake near Vatnajökull glacier, which has small icebergs floating in it, making for some fantastic scenery. 
+
+{% include image.html url='/assets/iceland/vatnajokull.jpg' alt='Vatnajökull National Park' caption='Vatnajökull National Park' %}
+
+Once you've had your fill of the Vatnajökull National Park, hopefully you have enough day light to admire the **Diamond Beach** (I didn't unfortunately!). It's an incredibly picturesque beach where the icebergs of Jökulsárlón wash up on their journey out to the Atlantic Ocean, giving a stark contrast to the jet black sand. 
+
+A short drive later and you'll make it to the small fishing village of Hofn to your accomodation. 
+
+## Day 3
+
+### Hofn to Egilsstaðir
+
+![alt text][stokksnes]
+
+**Things to see**
+ - Hoffell hot tubs
+ - Stokksnes Mountain
+ - The Viking Village
+ - Lagarfljót
+
+ **Where to stay**
+ - Tehúsið Hostel, Egilsstaðir (AirBnB)
 
 [map]: /assets/iceland/map.jpg "Map of the route around Iceland and stops"
 [seljalandsfoss]: /assets/iceland/day-1.jpg "Seljalandsfoss waterfall"
-
+[reynisfjara]: /assets/iceland/day-2.jpg "Reynisfjara beach"
+[stokksnes]: /assets/iceland/day-3.jpg "Stokksnes mountain"
 

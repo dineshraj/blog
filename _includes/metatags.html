@@ -37,7 +37,6 @@
 {% assign canonical_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
 
 <!-- Place this data between the <head> tags of your website -->
-
 {% if page.excerpt %}
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 {% else %}
