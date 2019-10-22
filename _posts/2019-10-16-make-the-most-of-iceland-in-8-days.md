@@ -95,7 +95,7 @@ Next up is the **Haukadalur Geothermal Valley**. which contains two main geysers
 
 You have two more waterfalls left today. The first is the beautiful **Seljalandsfoss**, which sees glacial water falling over an indented cliff which has a large cavern carved out behind it. The cavern lets you walk behind and around it and it is an amazing experience, allowing you take in the waterfall and it's power right up close.
 
-{% include image.html url='/assets/iceland/seljalandfoss.jpg' alt='seljalandfoss waterfall' caption='seljalandfoss waterfall' %}  
+{% include image.html url='/assets/iceland/seljalandfoss.jpg' alt='Seljalandfoss waterfall' caption='seljalandfoss waterfall' %}  
 
 Next up on the route is **Skógafoss**, which is a powerful waterfall with a viewing platform to the side. It's an impressive 25 meters wide and 60 meters tall.
 
