@@ -159,6 +159,26 @@ A short drive later and you'll make it to the small fishing village of Hofn to y
  **Where to stay**
  - Tehúsið Hostel, Egilsstaðir (AirBnB)
 
+Good morning! Hope you had a good sleep because you have a busy day ahead of  you. First up is the **Hoffell Hot Tubs**. Now, just to manage your expectations here, don't expect Blue Lagoon style luxury, these are hot tubs that it feels like locals would use, but the facilities are clean, it's very cheap and it is set in a beautiful location. 
+
+There are about 5 hot hubs, all geothermally heated and changing rooms, an outdoor shower and towels are provided. It's definitely worth a visit. 
+
+{% include image.html url='/assets/iceland/hoffell-hot-tub.jpg' alt='Hoffell Hot Tubs' caption='Hoffell Hot Tubs' %}
+
+Next up is a drive to the **Stokksnes mountain** area, which is a beautiful area on a peninsula. You'll have to pay a little in the Viking Cafe t oget through the barriers and to the car park but once you do, you can wonder around a very picturesque area with the mountain looming over another black beach. 
+
+A little walk inland you'll come to the **Viking Village**, which is a intricate and accurately build viking village for a TV series that never made it to air. The remains of the village are still here and it really is an experience to wonder around and feel how vikings could have once lived. You may notice the strange remains of a fake rock wall near the center of the village, this was to hide a stone building from view. The stairs are still accessible from the back so go ahead, climb them and explore! 
+
+{% include image.html url='/assets/iceland/viking-village.jpg' alt='Viking Village' caption='Viking Village' %}
+
+There is quite a long drive to Egilsstaðir, the largest city in the East, but on the way you'll come across **Lagarfljót**, which is a large lake. According to legend the lake is said to hold the cousin of the Loch Ness monster, the Lagarfljót Wyrm. Sightings to back to 1345, so see if you can spot it. 
+
+From here you'll be pretty close to **Egilsstaðir**, the Capital of the East. You'll be staying at **Tehúsið Hostel**, which is a great hostel with a bar (happy hour til 7pm!), games and a great chill out area. It's also worth a wonder into town too to check out the Askur Taproom, which has a wide range of craft beers and karaoke. This bar wouldn't be out of place in Shoreditch, London! 
+
+{% include image.html url='/assets/iceland/tehusid-hostel.jpg' alt='Tehusid Hostel' caption='Tehusid Hostel' %}
+
+<!-- Image references -->
+ 
 [map]: /assets/iceland/map.jpg "Map of the route around Iceland and stops"
 [seljalandsfoss]: /assets/iceland/day-1.jpg "Seljalandsfoss waterfall"
 [reynisfjara]: /assets/iceland/day-2.jpg "Reynisfjara beach"
