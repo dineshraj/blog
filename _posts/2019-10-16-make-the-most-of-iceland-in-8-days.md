@@ -45,7 +45,7 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 - **Accomodation**: Tehúsið Hostel, Egilsstaðir (AirBnB)
 
 ### Day 4
-- **Sites**: Seyðisfjörður, Dettifoss, Dimmuborgir, Krafla, Námaskarð, Mývatn
+- **Sites**: Seyðisfjörður, Dettifoss, Krafla, Námaskarð
 - **Accomodation**: Fosshotel, Húsavík (Booking.com)
 
 ### Day 5
@@ -95,7 +95,7 @@ Next up is the **Haukadalur Geothermal Valley**. which contains two main geysers
 
 You have two more waterfalls left today. The first is the beautiful **Seljalandsfoss**, which sees glacial water falling over an indented cliff which has a large cavern carved out behind it. The cavern lets you walk behind and around it and it is an amazing experience, allowing you take in the waterfall and it's power right up close.
 
-{% include image.html url='/assets/iceland/seljalandfoss.jpg' alt='Seljalandfoss waterfall' caption='seljalandfoss waterfall' %}  
+{% include image.html url='/assets/iceland/seljalandfoss.jpg' caption='seljalandfoss waterfall' %}  
 
 Next up on the route is **Skógafoss**, which is a powerful waterfall with a viewing platform to the side. It's an impressive 25 meters wide and 60 meters tall.
 
@@ -124,7 +124,7 @@ There is a plane wreck on the route before Dyrhólaey called **DC-3 Plane Wrecka
 
 The next stop is **Reynisfjara**, near the town of Vik. Stop here for a while an appreciate the black sand, the crashing waves and the basalt columns and rock formations. It's a truly spectacular place and if you're a city dweller it's a great chance to unwind and feel relaxed. 
 
-{% include image.html url='/assets/iceland/reynisfjara.jpg' alt='Reynisfjara beach' caption='Reynisfjara beach' %}
+{% include image.html url='/assets/iceland/reynisfjara.jpg' caption='Reynisfjara beach' %}
 
 After taking it the atmosphere of Reynisfjara, you'll drive to Vatnajökull National park which as some great hiking routes and a tour up the biggset glacier in Iceland. 
 
@@ -132,13 +132,13 @@ However before that you'll go through the **Skaftareldahraun moss lava fields**,
 
 There are also some great stops along the way, the main one of note is **Pjadrurfoss waterfall**. It's a small waterfall but the setting and the several streams of water all frothing and flowing into the main river is magnificent. 
 
-{% include image.html url='/assets/iceland/pjadrurfoss.jpg' alt='Pjadrurfoss waterfall' caption='Pjadrurfoss waterfall' %}
+{% include image.html url='/assets/iceland/pjadrurfoss.jpg' caption='Pjadrurfoss waterfall' %}
 
 The main attraction of the afternoon is **Vatnajökull National Park**, which is named after the biggest glacier in Iceland. It's about the size of Cyprus and  and the national park has guided tours up the glacier. You can't go on your own so you'll need a guide, which will supply the correct equipment to walk up this magnificant glacier. 
 
 If you fancy something a bit more low-key, there are great hiking trails around the **Skaftafell** area of the national park, and you are also only about a 20 minute walk from a magnificant lake near Vatnajökull glacier, which has small icebergs floating in it, making for some fantastic scenery. 
 
-{% include image.html url='/assets/iceland/vatnajokull.jpg' alt='Vatnajökull National Park' caption='Vatnajökull National Park' %}
+{% include image.html url='/assets/iceland/vatnajokull.jpg' caption='Vatnajökull National Park' %}
 
 Once you've had your fill of the Vatnajökull National Park, hopefully you have enough day light to admire the **Diamond Beach** (I didn't unfortunately!). It's an incredibly picturesque beach where the icebergs of Jökulsárlón wash up on their journey out to the Atlantic Ocean, giving a stark contrast to the jet black sand. 
 
@@ -163,24 +163,76 @@ Good morning! Hope you had a good sleep because you have a busy day ahead of  yo
 
 There are about 5 hot hubs, all geothermally heated and changing rooms, an outdoor shower and towels are provided. It's definitely worth a visit. 
 
-{% include image.html url='/assets/iceland/hoffell-hot-tub.jpg' alt='Hoffell Hot Tubs' caption='Hoffell Hot Tubs' %}
+{% include image.html url='/assets/iceland/hoffell-hot-tub.jpg' caption='Hoffell Hot Tubs' %}
 
 Next up is a drive to the **Stokksnes mountain** area, which is a beautiful area on a peninsula. You'll have to pay a little in the Viking Cafe t oget through the barriers and to the car park but once you do, you can wonder around a very picturesque area with the mountain looming over another black beach. 
 
 A little walk inland you'll come to the **Viking Village**, which is a intricate and accurately build viking village for a TV series that never made it to air. The remains of the village are still here and it really is an experience to wonder around and feel how vikings could have once lived. You may notice the strange remains of a fake rock wall near the center of the village, this was to hide a stone building from view. The stairs are still accessible from the back so go ahead, climb them and explore! 
 
-{% include image.html url='/assets/iceland/viking-village.jpg' alt='Viking Village' caption='Viking Village' %}
+{% include image.html url='/assets/iceland/viking-village.jpg' caption='Viking Village' %}
 
 There is quite a long drive to Egilsstaðir, the largest city in the East, but on the way you'll come across **Lagarfljót**, which is a large lake. According to legend the lake is said to hold the cousin of the Loch Ness monster, the Lagarfljót Wyrm. Sightings to back to 1345, so see if you can spot it. 
 
 From here you'll be pretty close to **Egilsstaðir**, the Capital of the East. You'll be staying at **Tehúsið Hostel**, which is a great hostel with a bar (happy hour til 7pm!), games and a great chill out area. It's also worth a wonder into town too to check out the Askur Taproom, which has a wide range of craft beers and karaoke. This bar wouldn't be out of place in Shoreditch, London! 
 
-{% include image.html url='/assets/iceland/tehusid-hostel.jpg' alt='Tehusid Hostel' caption='Tehusid Hostel' %}
+{% include image.html url='/assets/iceland/tehusid-hostel.jpg' caption='Tehusid Hostel' %}
+
+## Day 4
+
+![alt text][dettifoss]
+
+### Egilsstaðir to Husavik
+
+**Things to see**
+ - Seyðisfjörður
+ - Dettifoss
+ - Krafla
+ - Námaskarð
+
+ **Where to stay**
+ - Fosshotel, Húsavík (Booking.com)
+
+You're going to be very busy today as there are so many amazing things to see, but before we get onto the powerful aspects of nature on show here, let's take a trip to **Seyðisfjörður**, which is a small fishing village right out on the east coast. It is embraced by mountains and has a natural port. It's also a great place to grab some breakfast before heading out. 
+
+{% include image.html url='/assets/iceland/seydisfjordur.jpg' caption='Seyðisfjörður Fishing Village' %}
+
+Hope you got a nice breakfast, because now you're going to Europe's largest and most powerful waterfall, **Dettifoss**. As with most natural attractions in Iceland, there are no barriers or walkways, apart from some sparsely hammered in posts, so you're free to explore and experience Dettifoss' power right up close. Take your time here, it is truly a magnificent experience to be right up close to that much power. 
+
+{% include video.html video='/assets/iceland/dettifoss.mp4' caption='Dettifoss Waterfall' %}
+
+The next stop is **Krafla**, which is an active volcano. It currently has a big lake in it as it hasn't erupted since 1984 but there have been 29 reported eruptions in recorded history. 
+
+After this drive down to **Námaskarð**, which is an amazing geothermal area where the ground is literally steaming everywhere. It really does look and feel (and smells!) like another planet due to the sulphur deposits and the vents with constant billowing steam coming out of the ground. 
+
+{% include video.html video='/assets/iceland/namaskard.mp4' caption='Namaskard Thermal area' %}
+
+{% include image.html url='/assets/iceland/namaskard.jpg' caption='Namaskard Thermal area' %}
+
+There's lots more to see around here, like Mývatn lake and Ásbyrgi canyon, and also a couple more, but you can save that for tomorrow afternoon (you'll have to come back near this area to continue your journey).
+
+Your stay tonight is in an actual hotel, Fosshotel, which is in Husavik, a perfect location for your whale watching tomorrow! 
+
+## Day 5
+
+![alt text][grjotagja]
+
+### Husavik to Akureyri
+
+**Things to see**
+ - Húsavík
+ - Mývatn Nature Baths
+ - Grjótagjá Cave
+ - Goðafoss
+ 
+ **Where to stay**
+ - Apotek Guesthouse, Akureyri (Booking.com)
 
 <!-- Image references -->
  
 [map]: /assets/iceland/map.jpg "Map of the route around Iceland and stops"
-[seljalandsfoss]: /assets/iceland/day-1.jpg "Seljalandsfoss waterfall"
-[reynisfjara]: /assets/iceland/day-2.jpg "Reynisfjara beach"
-[stokksnes]: /assets/iceland/day-3.jpg "Stokksnes mountain"
+[seljalandsfoss]: /assets/iceland/day-1.jpg "Seljalandsfoss Waterfall"
+[reynisfjara]: /assets/iceland/day-2.jpg "Reynisfjara Beach"
+[stokksnes]: /assets/iceland/day-3.jpg "Stokksnes Mountain"
+[dettifoss]: /assets/iceland/day-4.jpg "Dettifoss Waterfall"
+[grjotagja]: /assets/iceland/day-5.jpg "Grjotagja Cave"
 
