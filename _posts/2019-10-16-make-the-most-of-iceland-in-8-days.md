@@ -24,7 +24,7 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 
 ***Note on the weather**: Unfortunately the weather was not ideal during the entire duration of the trip, and apart from a couple of days, it was constantly cloudy and rainy, with not a clear night whatsoever. This meant I did not see any stars or the nothern lights, whether this is typical for October or not, I'm not sure.*
 
-## Itinery Overview
+## Itinerary Overview
 
 ![alt text][map]
 
@@ -134,9 +134,9 @@ There are also some great stops along the way, the main one of note is **Pjadrur
 
 {% include image.html url='/assets/iceland/pjadrurfoss.jpg' caption='Pjadrurfoss waterfall' %}
 
-The main attraction of the afternoon is **Vatnajökull National Park**, which is named after the biggest glacier in Iceland. It's about the size of Cyprus and  and the national park has guided tours up the glacier. You can't go on your own so you'll need a guide, which will supply the correct equipment to walk up this magnificant glacier. 
+The main attraction of the afternoon is **Vatnajökull National Park**, which is named after the biggest glacier in Iceland. It's about the size of Cyprus and  and the national park has guided tours up the glacier. You can't go on your own so you'll need a guide, which will supply the correct equipment to walk up this magnificent glacier. 
 
-If you fancy something a bit more low-key, there are great hiking trails around the **Skaftafell** area of the national park, and you are also only about a 20 minute walk from a magnificant lake near Vatnajökull glacier, which has small icebergs floating in it, making for some fantastic scenery. 
+If you fancy something a bit more low-key, there are great hiking trails around the **Skaftafell** area of the national park, and you are also only about a 20 minute walk from a magnificent lake near Vatnajökull glacier, which has small icebergs floating in it, making for some fantastic scenery. 
 
 {% include image.html url='/assets/iceland/vatnajokull.jpg' caption='Vatnajökull National Park' %}
 
@@ -165,7 +165,7 @@ There are about 5 hot hubs, all geothermally heated and changing rooms, an outdo
 
 {% include image.html url='/assets/iceland/hoffell-hot-tub.jpg' caption='Hoffell Hot Tubs' %}
 
-Next up is a drive to the **Stokksnes mountain** area, which is a beautiful area on a peninsula. You'll have to pay a little in the Viking Cafe t oget through the barriers and to the car park but once you do, you can wonder around a very picturesque area with the mountain looming over another black beach. 
+Next up is a drive to the **Stokksnes mountain** area, which is a beautiful area on a peninsula. You'll have to pay a little in the Viking Cafe to get through the barriers and to the car park but once you do, you can wonder around a very picturesque area with the mountain looming over another black beach. 
 
 A little walk inland you'll come to the **Viking Village**, which is a intricate and accurately build viking village for a TV series that never made it to air. The remains of the village are still here and it really is an experience to wonder around and feel how vikings could have once lived. You may notice the strange remains of a fake rock wall near the center of the village, this was to hide a stone building from view. The stairs are still accessible from the back so go ahead, climb them and explore! 
 
