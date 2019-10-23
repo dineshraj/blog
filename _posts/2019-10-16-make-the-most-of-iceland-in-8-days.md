@@ -12,7 +12,7 @@ You've probably arrived at Keflavík International Airport, taken the shuttle bu
 are itching with excitement to explore this beautiful island! 
 
 The article starts you off just leaving the capital, Reykjavik (don't worry, you'll spend some time there at the end!)
-and point out some of the best things to see and some great places to stay too. 
+and points out some of the best things to see and some great places to stay too. 
 
 Don't stick to just these places though, there's so much that this trip didn't contain, and also take lots of unscheduled stops and the various laybys on the ring road, there is so much beautiful scenery between these places so don't miss out on those!
 
@@ -268,8 +268,12 @@ Now you'll drive west to the Northern Capital, Akureyri and to the **Apotek Gues
 
  *Note: This was a very very driving heavy day for me as when driving from Akureyri to Hellissandur (which is already a 5 hour drive), Google Maps decided to change our route, for reasons unknown, and take us all the way near Hólmavik and then back down again, so keep an eye on your route.* 
 
-{% include image.html url='/assets/iceland/akureyrarkirkja.jpg' caption='akureyrarkirkja Church' %}
+{% include image.html url='/assets/iceland/akureyrarkirkja.jpg' caption='Akureyrarkirkja Church' %}
 
+\
+\
+\
+*Credit to [Aimee Rivers](http://sdf.sdf) for the videos used in this post.*
 <!-- Image references -->
  
 [map]: /assets/iceland/map.jpg "Map of the route around Iceland and stops"
