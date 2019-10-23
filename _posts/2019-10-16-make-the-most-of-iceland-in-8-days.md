@@ -208,7 +208,7 @@ After this drive down to **Námaskarð**, which is an amazing geothermal area wh
 
 {% include image.html url='/assets/iceland/namaskard.jpg' caption='Namaskard Thermal area' %}
 
-There's lots more to see around here, like Mývatn lake and Ásbyrgi canyon, and also a couple more, but you can save that for tomorrow afternoon (you'll have to come back near this area to continue your journey).
+There's lots more to see around here, like Mývatn lake and Ásbyrgi canyon, and also a couple more, but you can save that for tomorrow afternoon.
 
 Your stay tonight is in an actual hotel, Fosshotel, which is in Husavik, a perfect location for your whale watching tomorrow! 
 
