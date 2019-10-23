@@ -210,7 +210,7 @@ After this drive down to **Námaskarð**, which is an amazing geothermal area wh
 
 There's lots more to see around here, like Mývatn lake and Ásbyrgi canyon, and also a couple more, but you can save that for tomorrow afternoon.
 
-Your stay tonight is in an actual hotel, Fosshotel, which is in Husavik, a perfect location for your whale watching tomorrow! 
+Your stay tonight is in an actual hotel, Fosshotel, which is in Husavik, the perfect location for your whale watching tomorrow! 
 
 ## Day Five
 
