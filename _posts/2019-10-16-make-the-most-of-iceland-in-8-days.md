@@ -49,12 +49,12 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 - **Accomodation**: Fosshotel, Húsavík (Booking.com)
 
 ### Day 5
-- **Sites**: Húsavík, Mývatn Nature Baths, Grjótagjá Cave, Goðafoss
+- **Sites**: Húsavík (book whale watching in advance), Mývatn Nature Baths, Grjótagjá Cave, Goðafoss
 - **Accomodation**: Apotek Guesthouse, Akureyri (Booking.com)
 
 ### Day 6
 - **Sites**: Akureyri old town, Þingeyrarkirkja
-- **Accomodation**: West Park Guesthouse, Snæfellsjökull (AirBnB)
+- **Accomodation**: West Park Guesthouse, Hellissandur (AirBnB)
 
 ### Day 7
 - **Sites**: Snæfellsnes, Hellnar, Arnarstapi
@@ -219,13 +219,56 @@ Your stay tonight is in an actual hotel, Fosshotel, which is in Husavik, the per
 ### Husavik to Akureyri
 
 **Things to see**
- - Húsavík
+ - Húsavík (book whale watching in advance)
  - Mývatn Nature Baths
  - Grjótagjá Cave
- - Goðafoss
+ - Goðafoss waterfall
  
  **Where to stay**
  - Apotek Guesthouse, Akureyri (Booking.com)
+
+ Hopefully you enjoyed your hotel last night and you're up early because it's time for **whale watching**. I booked with North Sailing but there are a few companies around the area offering different types of boats, so do some research before you book. 
+ 
+ You'll go down to the harbour, show your e-ticket for a real ticket and then board one of the nearby boats. You'll get given some nice warm outer clothes and be on your way. 
+
+ The tour is around 3 hours and takes you north of Iceland. Hopefully you'll see some humpback whales, which are quite common to the area, but the experience of being on a boat in the North Atlantic is also a great one. 
+
+ *Note: the best time for whales is in the summer, and as I went in October, I didn't see any, but I was granted a free tour again at any point in the future*
+
+ {% include video.html video='/assets/iceland/whale-watching.mp4' caption='Whale watching in Husavik' %}
+
+Hopefully you saw some whales, but now take the time to walk around Husavik a bit, it's got some nice shops and a few bars and restaurants. 
+
+Now you're going to head back to Mývatn to see some of the things you didn't see yesterday. First is the **Mývatn Nature Baths**, which, like the Blue Lagoon, is a very popular but expensive thermal pool. 
+
+Next up is the **Grjótagjá Cave**, which is featured in Games of Thrones when Jon Snow proved he *does* in fact know something with Ygritte. It looks smaller in real life than it does in Game of Thrones but it's still cool to see. Unfortunately you can't bathe in here as due to eruptions from 1975 - 1984, the temperature rose to over 50 degrees celsius. 
+
+The surrounding landscape is beautiful, and you can see how the earth was ripped open by an incredible force.
+
+{% include image.html url='/assets/iceland/grjotagja.jpg' caption='Grjotagja Landscape' %}
+
+The last stop before the fair drive to Akureyri is **Goðafoss waterfall**, which is another one of Iceland's stunning waterfalls. It streams down in an arc shape, making it really wide and it's power is a sight to behold. 
+
+{% include image.html url='/assets/iceland/godafoss.jpg' caption='Godafoss Waterfall' %}
+
+Now you'll drive west to the Northern Capital, Akureyri and to the **Apotek Guesthouse**. If you have some time, take a look around the city, there are some great bars and restaurants, and a great bar in the Akureyri Backpackers hostel just down the road from the Apotek Guesthouse with nice atmosphere and some board games. Also check out any fish and chip restaurants around here, the fish is caught nearby so it tastes amazing. 
+
+##  Day Six
+
+![alt text][thingeyrarkirkja]
+
+### Akureyri to Hellissandur
+
+**Things to see**
+ - Akureyri old town
+ - Þingeyrarkirkja
+ 
+ **Where to stay**
+ - West Park Guesthouse , Hellissandur (AirBnB)
+
+ *Note: This was a very very driving heavy day for me as when driving from Akureyri to Hellissandur (which is already a 5 hour drive), Google Maps decided to change our route, for reasons unknown, and take us all the way near Hólmavik and then back down again, so keep an eye on your route.* 
+
+{% include image.html url='/assets/iceland/akureyrarkirkja.jpg' caption='akureyrarkirkja Church' %}
 
 <!-- Image references -->
  
@@ -235,4 +278,5 @@ Your stay tonight is in an actual hotel, Fosshotel, which is in Husavik, the per
 [stokksnes]: /assets/iceland/day-3.jpg "Stokksnes Mountain"
 [dettifoss]: /assets/iceland/day-4.jpg "Dettifoss Waterfall"
 [grjotagja]: /assets/iceland/day-5.jpg "Grjotagja Cave"
+[thingeyrarkirkja]: /assets/iceland/day-6.jpg "Thingeyrarkirkja church"
 
