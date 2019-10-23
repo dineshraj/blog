@@ -66,7 +66,7 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 
 <!-- more -->
 
-## Day 1
+## Day One
 ### Reykjavik to Hvolsvöllur
 
 ![alt text][seljalandsfoss]
@@ -101,7 +101,7 @@ Next up on the route is **Skógafoss**, which is a powerful waterfall with a vie
 
 If you've taken your time seeing all the beautiful sites, light is probably fading by now, but there is a Bistro Bar nearby Skógafoss and the recommended **Guesthouse Rauðafell** is just a short drive away in **Hvolsvöllur**. The guest house is large modern and spotless and has 6 rooms for guests. There is also a breakfast provided in the morning.
 
-## Day 2
+## Day Two
 ### Hvolsvöllur to Hofn
 
 ![alt text][reynisfjara]
@@ -144,7 +144,7 @@ Once you've had your fill of the Vatnajökull National Park, hopefully you have 
 
 A short drive later and you'll make it to the small fishing village of Hofn to your accomodation. 
 
-## Day 3
+## Day Three
 
 ### Hofn to Egilsstaðir
 
@@ -177,7 +177,7 @@ From here you'll be pretty close to **Egilsstaðir**, the Capital of the East. Y
 
 {% include image.html url='/assets/iceland/tehusid-hostel.jpg' caption='Tehusid Hostel' %}
 
-## Day 4
+## Day Four
 
 ![alt text][dettifoss]
 
@@ -212,7 +212,7 @@ There's lots more to see around here, like Mývatn lake and Ásbyrgi canyon, and
 
 Your stay tonight is in an actual hotel, Fosshotel, which is in Husavik, a perfect location for your whale watching tomorrow! 
 
-## Day 5
+## Day Five
 
 ![alt text][grjotagja]
 
