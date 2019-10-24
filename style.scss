@@ -17,8 +17,8 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  font: 18px/1.4 $helveticaNeue;
   color: $darkGray;
 }
 
@@ -64,7 +64,8 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;
+  font-weight: 300;
 }
 
 h4 {

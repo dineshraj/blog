@@ -28,39 +28,39 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 
 ![alt text][map]
 
-### Day 0
+### Arrival
 - **Sites**: Blue Lagoon (if you have time after landing, I didn't)
 - **Accomodation**: Central Reykjavík (AirBnB)
 
-### Day 1
+### Day One
 - **Sites**: Þingvellir, Almannagjá Rift,  Haukadalur Geothermal Valley, Seljalandsfoss, Skógafoss
 - **Accomodation**: Guesthouse Rauðafell, Hvolsvöllur (AirBnB)
 
-### Day 2
+### Day Two
 - **Sites**: Dyrhólaey, Reynisfjara, Skaftareldahraun, Pjadrurfoss, Vatnajökull, Skaftafell, Diamond Beach 
 - **Accomodation**: - Höfn í Hornafirði, Höfn (AirBnB)
 
-### Day 3
+### Day Three
 - **Sites**: Hoffell hot tubs, Stokksnes Mountain, The Viking Village, Lagarfljót
 - **Accomodation**: Tehúsið Hostel, Egilsstaðir (AirBnB)
 
-### Day 4
+### Day Four
 - **Sites**: Seyðisfjörður, Dettifoss, Krafla, Námaskarð
 - **Accomodation**: Fosshotel, Húsavík (Booking.com)
 
-### Day 5
+### Day Five
 - **Sites**: Húsavík (book whale watching in advance), Mývatn Nature Baths, Grjótagjá Cave, Goðafoss
 - **Accomodation**: Apotek Guesthouse, Akureyri (Booking.com)
 
-### Day 6
+### Day Six
 - **Sites**: Akureyri old town, Þingeyrarkirkja
 - **Accomodation**: West Park Guesthouse, Hellissandur (AirBnB)
 
-### Day 7
+### Day Seven
 - **Sites**: Snæfellsnes, Hellnar, Arnarstapi
 - **Accomodation**: Central Reykjavík (AirBnB)
 
-### Day 8
+### Day Eight
 - **Sites**: Reykjavík, Sun Voyager, Hallgrimskirkja
 - **Accomodation**: Central Reykjavík (AirBnB)
 
@@ -268,7 +268,39 @@ Now you'll drive west to the Northern Capital, Akureyri and to the **Apotek Gues
 
  *Note: This was a very very driving heavy day as when driving from Akureyri to Hellissandur (which is already a 5 hour drive), Google Maps decided to change our route, for reasons unknown, and take us all the way near Hólmavik and then back down again, so keep an eye on your route.* 
 
+This morning you'll go and wonder around the **Akureyri old town**, which is full of older wooden buildngs and a very striking church. Aim to have a chilled out morning here and grab some lunch later on, as there will be a lot of driving coming up in the latter part of the day. 
+
 {% include image.html url='/assets/iceland/akureyrarkirkja.jpg' caption='Akureyrarkirkja Church' %}
+
+When you're satisfied you've seen enough of Akureyri, it's time to begin your drive west. It's a long drive but there are things to see on the way so make sure you leave enough day light to see them all. 
+
+The drive itself goes through many different types of terrain, but nothing too extremely so a front wheel drive car is fine. You'll drive up a mountain, some gravel and dirt roads and some newly laid tarmac too. Depending on the time of year you're going to may also see some snow, if you haven't already, as you drive up a mountain.
+
+{% include video.html video='/assets/iceland/snowy-drive.mp4' caption='Driving though the snow' %}
+
+The roads are also marked with wooden poles with reflective patches on them to guide you when it gets dark, but don't expect any street lights. You'll find driving in the dark near the coast, with the invisible waves crashing to the right of you, an experience that'll stay with you. 
+
+One stop of note is one of Icelands only stone churches called **Þingeyrarkirkja**, which is worth a stop. Other points of note include Hvitserkur (a 15m basalt stack), Eiriksstadir (ancient viking ruins), Stykkishólmur (harbour town and lighthouse) and Djúpalónssandur (a black beach).  
+
+After the drive you'll arrive at Hellissandur, where **West Park Guesthouse** is located nearby.
+
+{% include image.html url='/assets/iceland/west-park.jpg' caption='West Park Guesthouse' %}
+
+
+## Day Seven
+
+![alt text][snaefellsnes]
+
+### Hellissandur to Reykjavík
+
+**Things to see**
+ - Snæfellsnes
+ - Hellnar
+ - Arnarstapi
+ 
+ **Where to stay**
+ - Central Reykjavík (AirBnB)
+
 
 \
 \
@@ -283,4 +315,5 @@ Now you'll drive west to the Northern Capital, Akureyri and to the **Apotek Gues
 [dettifoss]: /assets/iceland/day-4.jpg "Dettifoss Waterfall"
 [grjotagja]: /assets/iceland/day-5.jpg "Grjotagja Cave"
 [thingeyrarkirkja]: /assets/iceland/day-6.jpg "Thingeyrarkirkja church"
+[snaefellsnes]: /assets/iceland/day-7.jpg "Snæfellsnes lighthouse"
 
