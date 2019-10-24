@@ -301,8 +301,6 @@ After the drive you'll arrive at Hellissandur, where **West Park Guesthouse** is
  **Where to stay**
  - Central Reykjavík (AirBnB)
 
-
-\
 \
 \
 *Credit to [Aimee Rivers](http://sdf.sdf) for the videos used in this post.*
