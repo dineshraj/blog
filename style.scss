@@ -18,8 +18,9 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $helveticaNeue;
+  font: 18px/1.5 $helveticaNeue;
   color: $darkGray;
+  font-weight: 300;
 }
 
 .container {
@@ -113,7 +114,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: bold;
+  font-weight: 400;
 }
 
 img {

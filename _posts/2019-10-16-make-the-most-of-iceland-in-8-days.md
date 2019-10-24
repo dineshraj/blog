@@ -53,7 +53,7 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 - **Accomodation**: Apotek Guesthouse, Akureyri (Booking.com)
 
 ### Day Six
-- **Sites**: Akureyri old town, Þingeyrarkirkja
+- **Sites**: Akureyri old town, Sundlaug thermal baths, Þingeyrarkirkja
 - **Accomodation**: West Park Guesthouse, Hellissandur (AirBnB)
 
 ### Day Seven
@@ -210,7 +210,9 @@ After this drive down to **Námaskarð**, which is an amazing geothermal area wh
 
 There's lots more to see around here, like Mývatn lake and Ásbyrgi canyon, and also a couple more, but you can save that for tomorrow afternoon.
 
-Your stay tonight is in an actual hotel, Fosshotel, which is in Husavik, the perfect location for your whale watching tomorrow! 
+You'll now drive to Husavik, where a meal out may be in order. Try [Naustið](https://www.facebook.com/naustid), which serves traditional Icelandic food at reasonable prices. The fish mash is recommended.
+
+Your stay tonight is in an actual hotel, Fosshotel, the perfect location for your whale watching tomorrow! 
 
 ## Day Five
 
@@ -261,6 +263,7 @@ Now you'll drive west to the Northern Capital, Akureyri and to the **Apotek Gues
 
 **Things to see**
  - Akureyri old town
+ - Sundlaug thermal baths
  - Þingeyrarkirkja
  
  **Where to stay**
@@ -271,6 +274,8 @@ Now you'll drive west to the Northern Capital, Akureyri and to the **Apotek Gues
 This morning you'll go and wonder around the **Akureyri old town**, which is full of older wooden buildngs and a very striking church. Aim to have a chilled out morning here and grab some lunch later on, as there will be a lot of driving coming up in the latter part of the day. 
 
 {% include image.html url='/assets/iceland/akureyrarkirkja.jpg' caption='Akureyrarkirkja Church' %}
+
+Nearby, the **Sundlaug thermal baths** are a great place to relax. They are public geothermal baths with several pools of different temperatures, a swimming pool, a sauna and some water slides. This is a place that locals frequent, so it is not full of tourists as other places may be. 
 
 When you're satisfied you've seen enough of Akureyri, it's time to begin your drive west. It's a long drive but there are things to see on the way so make sure you leave enough day light to see them all. 
 
@@ -302,7 +307,7 @@ After the drive you'll arrive at Hellissandur, where **West Park Guesthouse** is
  - Central Reykjavík (AirBnB)
 
 
-*Credit to Aimee Rivers for the videos used in this post.*
+*Credit to Aimee Rivers for the videos used in this post. [Check out her video of the same trip here](https://www.youtube.com/watch?v=3f8TPNK_-Z0)*
 <!-- Image references -->
  
 [map]: /assets/iceland/map.jpg "Map of the route around Iceland and stops"
