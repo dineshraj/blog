@@ -307,6 +307,20 @@ After the drive you'll arrive at Hellissandur, where **West Park Guesthouse** is
  - Central Reykjavík (AirBnB)
 
 
+## Day Eight
+
+![alt text][sun-voyager]
+
+### Reykjavík
+
+**Things to see**
+ - Reykjavík city
+ - Sun Voyager
+ - Hallgrimskirkja
+ 
+ **Where to stay**
+ - Central Reykjavík (AirBnB)
+
 *Credit to Aimee Rivers for the videos used in this post. [Check out her video of the same trip here](https://www.youtube.com/watch?v=3f8TPNK_-Z0)*
 <!-- Image references -->
  
@@ -318,4 +332,5 @@ After the drive you'll arrive at Hellissandur, where **West Park Guesthouse** is
 [grjotagja]: /assets/iceland/day-5.jpg "Grjotagja Cave"
 [thingeyrarkirkja]: /assets/iceland/day-6.jpg "Thingeyrarkirkja church"
 [snaefellsnes]: /assets/iceland/day-7.jpg "Snæfellsnes lighthouse"
+[sun-voyager]: /assets/iceland/day-8.jpg "Sun Voyager"
 
