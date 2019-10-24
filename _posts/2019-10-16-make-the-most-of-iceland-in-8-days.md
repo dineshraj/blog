@@ -59,7 +59,7 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 - **Accomodation**: West Park Guesthouse, Hellissandur (AirBnB)
 
 ### [Day Seven](#day-seven-1)
-- **Sites**: Snæfellsnes, Hellnar, Arnarstapi
+- **Sites**: Snæfellsnes, Vatnshellir Cave, Hellnar, Arnarstapi
 - **Accomodation**: Central Reykjavík (AirBnB)
 
 ### [Day Eight](#day-eight-1)
@@ -95,7 +95,7 @@ Next up is the **Haukadalur Geothermal Valley**. which contains two main geysers
 
 You have two more waterfalls left today. The first is the beautiful **Seljalandsfoss**, which sees glacial water falling over an indented cliff which has a large cavern carved out behind it. The cavern lets you walk behind and around it and it is an amazing experience, allowing you take in the waterfall and it's power right up close.
 
-{% include image.html url='/assets/iceland/seljalandfoss.jpg' caption='seljalandfoss waterfall' %}  
+{% include image.html url='/assets/iceland/seljalandfoss.jpg' caption='Seljalandfoss Waterfall' %}  
 
 Next up on the route is **Skógafoss**, which is a powerful waterfall with a viewing platform to the side. It's an impressive 25 meters wide and 60 meters tall.
 
@@ -124,7 +124,7 @@ There is a plane wreck on the route before Dyrhólaey called **DC-3 Plane Wrecka
 
 The next stop is **Reynisfjara**, near the town of Vik. Stop here for a while an appreciate the black sand, the crashing waves and the basalt columns and rock formations. It's a truly spectacular place and if you're a city dweller it's a great chance to unwind and feel relaxed. 
 
-{% include image.html url='/assets/iceland/reynisfjara.jpg' caption='Reynisfjara beach' %}
+{% include image.html url='/assets/iceland/reynisfjara.jpg' caption='Reynisfjara Beach' %}
 
 After taking it the atmosphere of Reynisfjara, you'll drive to Vatnajökull National park which as some great hiking routes and a tour up the biggset glacier in Iceland. 
 
@@ -132,7 +132,7 @@ However before that you'll go through the **Skaftareldahraun moss lava fields**,
 
 There are also some great stops along the way, the main one of note is **Pjadrurfoss waterfall**. It's a small waterfall but the setting and the several streams of water all frothing and flowing into the main river is magnificent. 
 
-{% include image.html url='/assets/iceland/pjadrurfoss.jpg' caption='Pjadrurfoss waterfall' %}
+{% include image.html url='/assets/iceland/pjadrurfoss.jpg' caption='Pjadrurfoss Waterfall' %}
 
 The main attraction of the afternoon is **Vatnajökull National Park**, which is named after the biggest glacier in Iceland. It's about the size of Cyprus and  and the national park has guided tours up the glacier. You can't go on your own so you'll need a guide, which will supply the correct equipment to walk up this magnificent glacier. 
 
@@ -299,7 +299,8 @@ After the drive you'll arrive at Hellissandur, where **West Park Guesthouse** is
 ### Hellissandur to Reykjavík
 
 **Things to see**
- - Snæfellsnes
+ - Snæfellsnes,
+ - Vatnshellir Cave
  - Hellnar
  - Arnarstapi
  
