@@ -266,7 +266,7 @@ Now you'll drive west to the Northern Capital, Akureyri and to the **Apotek Gues
  **Where to stay**
  - West Park Guesthouse , Hellissandur (AirBnB)
 
- *Note: This was a very very driving heavy day for me as when driving from Akureyri to Hellissandur (which is already a 5 hour drive), Google Maps decided to change our route, for reasons unknown, and take us all the way near Hólmavik and then back down again, so keep an eye on your route.* 
+ *Note: This was a very very driving heavy day as when driving from Akureyri to Hellissandur (which is already a 5 hour drive), Google Maps decided to change our route, for reasons unknown, and take us all the way near Hólmavik and then back down again, so keep an eye on your route.* 
 
 {% include image.html url='/assets/iceland/akureyrarkirkja.jpg' caption='Akureyrarkirkja Church' %}
 
