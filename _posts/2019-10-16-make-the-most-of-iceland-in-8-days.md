@@ -28,43 +28,43 @@ This article will start with a overview and then it'll go into more detail. Ok, 
 
 ![alt text][map]
 
+<!-- more -->
+
 ### Arrival
 - **Sites**: Blue Lagoon (if you have time after landing, I didn't)
 - **Accomodation**: Central Reykjavík (AirBnB)
 
-### Day One
+### [Day One](#day-one-1)
 - **Sites**: Þingvellir, Almannagjá Rift,  Haukadalur Geothermal Valley, Seljalandsfoss, Skógafoss
 - **Accomodation**: Guesthouse Rauðafell, Hvolsvöllur (AirBnB)
 
-### Day Two
+### [Day Two](#day-two-1)
 - **Sites**: Dyrhólaey, Reynisfjara, Skaftareldahraun, Pjadrurfoss, Vatnajökull, Skaftafell, Diamond Beach 
 - **Accomodation**: - Höfn í Hornafirði, Höfn (AirBnB)
 
-### Day Three
+### [Day Three](#day-three-1)
 - **Sites**: Hoffell hot tubs, Stokksnes Mountain, The Viking Village, Lagarfljót
 - **Accomodation**: Tehúsið Hostel, Egilsstaðir (AirBnB)
 
-### Day Four
+### [Day Four](#day-four-1)
 - **Sites**: Seyðisfjörður, Dettifoss, Krafla, Námaskarð
 - **Accomodation**: Fosshotel, Húsavík (Booking.com)
 
-### Day Five
+### [Day Five](#day-five-1)
 - **Sites**: Húsavík (book whale watching in advance), Mývatn Nature Baths, Grjótagjá Cave, Goðafoss
 - **Accomodation**: Apotek Guesthouse, Akureyri (Booking.com)
 
-### Day Six
+### [Day Six](#day-six-1)
 - **Sites**: Akureyri old town, Sundlaug thermal baths, Þingeyrarkirkja
 - **Accomodation**: West Park Guesthouse, Hellissandur (AirBnB)
 
-### Day Seven
+### [Day Seven](#day-seven-1)
 - **Sites**: Snæfellsnes, Hellnar, Arnarstapi
 - **Accomodation**: Central Reykjavík (AirBnB)
 
-### Day Eight
+### [Day Eight](#day-eight-1)
 - **Sites**: Reykjavík, Sun Voyager, Hallgrimskirkja
 - **Accomodation**: Central Reykjavík (AirBnB)
-
-<!-- more -->
 
 ## Day One
 ### Reykjavik to Hvolsvöllur
