@@ -341,6 +341,20 @@ When you are satisfied you've explored this area to your liking, drive down towa
  **Where to stay**
  - Central Reykjavík (AirBnB)
 
+Today is your chance to explore the lovely city of Reykjavík. There is lots to do here, and from your past week, being in a city may be something of a culture shock. 
+
+The **Sun Voyager** sculpture, which is a cross between a ship and a scorpion is definitely one to see, and as it is on the coast, it's a great photo opportunity. Also the nearby Hallgrimskirkja church is magnificently imposing. 
+
+You should also check out the bars in the area, **The Dubliner** is a good choice for some great atmosphere and liveliness, and the Irishman is more chilled out if you want a more quiet time. There are too many restaurants to list here but it's worth looking around and trying out whatever takes your fancy. 
+
+{% include image.html url='/assets/iceland/reykjavik.jpg' caption='Icelandic parliamand' %}
+
+If you want to reflect on your journey a bit, there is a huge model of Iceland in the tourist information centre, with light up sections denoting key parts of the island. 
+
+But this is the last day of your trip so use it as you feel is best. You can even drive out to the Blue Lagoon or anywhere else you feel you would like to spend more time. 
+
+Hopefully you've had an amazing time in Iceland. It's definitely a a trip you'll remember forever and a beautiful country to visit. Hopefully this guide has been some help to you too, thanks for reading! 
+
 *Credit to Aimee Rivers for the videos used in this post. [Check out her video of the same trip here](https://www.youtube.com/watch?v=3f8TPNK_-Z0)*
 <!-- Image references -->
  
