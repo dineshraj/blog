@@ -307,6 +307,25 @@ After the drive you'll arrive at Hellissandur, where **West Park Guesthouse** is
  **Where to stay**
  - Central Reykjavík (AirBnB)
 
+Welcome to Day 7, hopefully you've rested up nicely from the long drive over to the West Park Guesthouse and are ready for another day of exploring. 
+
+The guesthouse is actually in **Snæfellsnes National Park** so there are some beautiful dramatic landscapes, and at its western tip, Snæfellsjökull Volcano, which is topped by a glacier. There are also lava fields and the Stykkishólmur fishing village to explore. 
+
+Next up is Vatnshellir Cave. This is an 8000 year old lava cave and is only accessible via a guided tour, which leaves relatively frequently throughout the day. The view around here is also spectacular, with moss lava fields stretching off into the distance and the shore just nearby with basalt columns rising tall on the shoreline and a picturesque lighthouse.
+
+{% include image.html url='/assets/iceland/snaefellsnes.jpg' caption='Snæfellsnes National Park' %}
+
+A short drive away now is **Hellnar**, a small cliffisde town, with some lovely paths to walk through and a cove near the shore. There is also a lovely looking corrugated iron church standing tall on a hill here. 
+
+{% include image.html url='/assets/iceland/hellnar.jpg' caption='Hellnar Church' %}
+
+Another small cliffside village in this area is **Arnarstapi**, which has adopted a stone sculpture, Bárður Snæfellsás, as its symbol. You can hike there from Hellnar, which is roughly 1 hour, or it's roughly a 10 minute drive. There are amazing cliffside views here from the viewing point, as well as a few bars and restaurants. 
+
+{% include image.html url='/assets/iceland/arnarstapi.jpg' caption='Arnarstapi' %}
+
+There are plenty of other things to see in this area too, such as Hraunfossar and Barnafossar waterfalls, Deildartunguhver (Europe's most powerful hot spring), and if you're more adventurous, you can go caving in Víðgelmir, Iceland's largest lava caves.
+
+When you are satisfied you've explored this area to your liking, drive down towards Reykjavík, where hopefully you have a nice AirBnB room waiting for you. 
 
 ## Day Eight
 
