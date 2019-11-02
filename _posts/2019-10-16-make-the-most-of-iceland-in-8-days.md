@@ -335,7 +335,9 @@ When you are satisfied you've explored this area to your liking, drive down towa
 
 **Things to see**
  - Reykjavík city
+ - Walking tour
  - Sun Voyager
+ - Grotta Island Lighthouse
  - Hallgrimskirkja
  
  **Where to stay**
@@ -343,13 +345,23 @@ When you are satisfied you've explored this area to your liking, drive down towa
 
 Today is your chance to explore the lovely city of Reykjavík. There is lots to do here, and from your past week, being in a city may be something of a culture shock. 
 
-The **Sun Voyager** sculpture, which is a cross between a ship and a scorpion is definitely one to see, and as it is on the coast, it's a great photo opportunity. Also the nearby Hallgrimskirkja church is magnificently imposing. 
+The first thing that is recommended is a **free walking tour** (tips encouraged at the end), it's a great way to get your bearings and learn about the history of Reykjavík and how it came to be. It'll take you around several key sights which you can then visit later at your leisure. 
+
+The **Sun Voyager** sculpture, which is a cross between a ship and a scorpion is definitely one to see, and as it is on the coast, it's a great photo opportunity. 
+
+The nearby Hallgrimskirkja church is magnificently imposing an makes for some incredible photos. 
+
+{% include image.html url='/assets/iceland/hallgrimskirkja.jpg' caption='The Road Up To Hallgrimskirkja Church' %}
+
+A drive to the east coast will also get you to the **Grotta Island Lighthouse** which is a beautiful area with a small black beach and the lighthouse, which is accessible via a rocky path when the tide is out. It is definitely worth going at sunset for some amazing views.
+
+{% include image.html url='/assets/iceland/grotta-lighthouse.jpg' caption='Sunset Near Grotta Island Lighthouse' %}
 
 You should also check out the bars in the area, **The Dubliner** is a good choice for some great atmosphere and liveliness, and the Irishman is more chilled out if you want a more quiet time. There are too many restaurants to list here but it's worth looking around and trying out whatever takes your fancy. 
 
-{% include image.html url='/assets/iceland/reykjavik.jpg' caption='Icelandic parliamand' %}
+{% include image.html url='/assets/iceland/reykjavik.jpg' caption='Icelandic Parliament' %}
 
-If you want to reflect on your journey a bit, there is a huge model of Iceland in the tourist information centre, with light up sections denoting key parts of the island. 
+If you want to reflect on your journey a bit, there is a huge model of Iceland in the tourist information centre, with light up sections denoting key parts of the island.
 
 But this is the last day of your trip so use it as you feel is best. You can even drive out to the Blue Lagoon or anywhere else you feel you would like to spend more time. 
 
