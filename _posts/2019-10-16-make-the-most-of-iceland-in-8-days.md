@@ -359,7 +359,7 @@ A drive to the east coast will also get you to the **Grotta Island Lighthouse** 
 
 You should also check out the bars in the area, **The Dubliner** is a good choice for some great atmosphere and liveliness, and **The Irishman** is more chilled out if you want a more quiet time. There are too many restaurants to list here but it's worth looking around and trying out whatever takes your fancy. 
 
-{% include image.html url='/assets/iceland/reykjavík.jpg' caption='Icelandic Parliament' %}
+{% include image.html url='/assets/iceland/reykjavik.jpg' caption='Icelandic Parliament' %}
 
 If you want to reflect on your journey a bit, there is a huge model of Iceland in the tourist information centre, with light up sections denoting key parts of the island.
 
