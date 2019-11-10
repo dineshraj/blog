@@ -6,6 +6,8 @@ categories: iceland travel
 image: /assets/iceland/social.jpg
 ---
 
+![Welcome to Iceland][intro]
+
 **How can you best spend eight days travelling around Iceland? Why is this a recommended length for a trip around this beautiful island? Read on to see how to spend eight amazing days in Iceland.**
 
 You've probably just arrived at Keflavík International Airport, taken the shuttle bus to pick up your car, and
@@ -371,6 +373,7 @@ Hopefully you've had an amazing time in Iceland. It's definitely a trip you'll r
 <!-- Image references -->
  
 [map]: /assets/iceland/map.jpg "Map of the route around Iceland and stops"
+[intro]: /assets/iceland/social.jpg "Welcome to Iceladnd"
 [seljalandsfoss]: /assets/iceland/day-1.jpg "Seljalandsfoss Waterfall"
 [reynisfjara]: /assets/iceland/day-2.jpg "Reynisfjara Beach"
 [stokksnes]: /assets/iceland/day-3.jpg "Stokksnes Mountain"
@@ -378,5 +381,6 @@ Hopefully you've had an amazing time in Iceland. It's definitely a trip you'll r
 [grjotagja]: /assets/iceland/day-5.jpg "Grjotagja Cave"
 [thingeyrarkirkja]: /assets/iceland/day-6.jpg "Thingeyrarkirkja church"
 [snaefellsnes]: /assets/iceland/day-7.jpg "Snæfellsnes lighthouse"
+[sun-voyager]: /assets/iceland/day-8.jpg "Sun Voyager"
 [sun-voyager]: /assets/iceland/day-8.jpg "Sun Voyager"
 
