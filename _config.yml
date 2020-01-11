@@ -18,7 +18,7 @@ excerpt_separator: "<!-- more -->"
 #
 
 # Default image for social media
-image: /assets/default-social.jpg # 1200 x 630 
+image: /assets/default-social.jpg # 1200 x 630
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -40,7 +40,7 @@ google_analytics: UA-81644572-4
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.dineshraj.com
+url: https://www.dineshraj.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -65,7 +65,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
