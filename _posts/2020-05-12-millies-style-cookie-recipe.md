@@ -48,7 +48,7 @@ Skip to:
 
 * add the egg and vanilla extract and whisk the mixture until mixed together.
 
-* Sift the flour and salt (and baking powder if applicable) into a separate bowl and then add to the mixture a little bit at a time, whisking as you go (this avoids it going everywhere!). A soft dough will form. 
+* Sift the flour and salt (and baking powder if applicable) into a separate bowl and then add to the mixture a little bit at a time, whisking as you go (this avoids the flour going everywhere!). A soft dough will form. 
 
 {% include image.html url='/assets/cookies/chocolate.jpg' caption='200g of chopped up chocolate' %}
 
