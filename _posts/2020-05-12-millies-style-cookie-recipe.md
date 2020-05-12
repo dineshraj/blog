@@ -34,12 +34,13 @@ Skip to:
 * Two bowls
 * Electric whisk (a hand wisk can work but it will be harder)
 * Spatula
-* Baking trays
+* Baking trays 
+  * Ideally 4 if you have room, or make the cookies two trays at a time
 * Greaseproof paper
 * Sieve 
 
 ## Instructions
-* Preheat the oven to 200°C, (fan 180°C, gas mark 4) and line 4 baking trays with greaseproof paper.
+* Preheat the oven to 200°C, (fan 180°C, gas mark 4) and line your baking trays with greaseproof paper.
 
 <!-- more -->
 
