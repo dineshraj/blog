@@ -3,7 +3,7 @@ layout: post
 title:  Millie's style cookie recipe
 date:   2020-05-12 11:22:47 +0000
 categories: cookies cooking baking recipe
-image: /assets/iceland/social.jpg
+image: /assets/cookies/social.jpg
 ---
 
 ![Millie's style cookie recipe][intro]
