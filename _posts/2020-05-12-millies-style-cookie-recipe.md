@@ -28,7 +28,7 @@ Skip to:
   * If you do not have self raising flour, mix 2 tsp baking powder to each 150g of flour, this will be just under **3 tsp** (roughly 12g) of baking powder
 * **1/2 tsp**	Salt
 * **200g**	Chopped chocolate (or chocolate chips)
-  * Any chocolate will do, we did this recipe twice, once with white chocolate and once with dark chocolate
+  * Any chocolate will do, this recipe was done twice, once with white chocolate and once with dark chocolate
 
 ## Equipment
 * Two bowls
