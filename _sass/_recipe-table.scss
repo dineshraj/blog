@@ -1,0 +1,18 @@
+.recipe-table {
+  width: 100%;
+  text-align: center;
+  background: #efefef;
+  
+  td {
+    width: 25%
+  }
+
+  &__heading {
+    font-size: 14px;
+    font-weight: normal;
+  }
+
+  &__info {
+    font-size: 30px;    
+  }
+}

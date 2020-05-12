@@ -373,7 +373,7 @@ Hopefully you've had an amazing time in Iceland. It's definitely a trip you'll r
 <!-- Image references -->
  
 [map]: /assets/iceland/map.jpg "Map of the route around Iceland and stops"
-[intro]: /assets/iceland/social.jpg "Welcome to Iceladnd"
+[intro]: /assets/iceland/social.jpg "Welcome to Iceland"
 [seljalandsfoss]: /assets/iceland/day-1.jpg "Seljalandsfoss Waterfall"
 [reynisfjara]: /assets/iceland/day-2.jpg "Reynisfjara Beach"
 [stokksnes]: /assets/iceland/day-3.jpg "Stokksnes Mountain"
