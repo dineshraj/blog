@@ -59,8 +59,9 @@ Skip to:
 * Make small balls of cookie dough and put them in the lined baking trays. Leave a lot of space between them as they will spread when they bake. About 6 per medium sized tray is recommended. 
 
 * Put the baking trays in the oven and bake for 8 minutes, remember you can bake from 7 to 10 minutes depending on the texture you prefer.
-  * **Note:** When removed from the oven, the cookies will come out looking uncooked and unset, this is normal and they will harden as they cool
 
+{% include important.html text='<strong>Note:</strong> When removed from the oven, the cookies will come out looking uncooked and unset, this is normal and they will harden as they cool'  %}
+  
 {% include image.html url='/assets/cookies/cookies.jpg' caption='Finished cookies from the white chocolate batch' %}
 
 * Remove from the oven and cool on some wire racks for about 10 minutes before eating. 
