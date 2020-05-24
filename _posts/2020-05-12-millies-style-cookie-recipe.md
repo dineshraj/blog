@@ -64,6 +64,8 @@ Skip to:
   
 {% include image.html url='/assets/cookies/cookies.jpg' caption='Finished cookies from the white chocolate batch' %}
 
-* Remove from the oven and cool on some wire racks for about 10 minutes before eating. 
+* Remove from the oven and carefully put the greaseproof paper with the cookies onto wire racks for about 10 minutes, so the cookies can set.
+
+* Now it's time to enjoy them!
 
 [intro]: /assets/cookies/social.jpg "Millie's style cookie recipe"
