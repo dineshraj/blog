@@ -1,6 +1,6 @@
 # Blog using Jekyll
 
-## Usage
+## Install
 
 Instal RVM (use the gpg command from https://rvm.io/rvm/install first):
 `$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`
@@ -8,4 +8,6 @@ Instal RVM (use the gpg command from https://rvm.io/rvm/install first):
 `$ gem install jekyll bundler`
 `$ bundle install`
 
+## Usage
 
+`bundle exec jekyll server`

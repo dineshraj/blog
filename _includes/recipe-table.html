@@ -3,13 +3,23 @@
   <tr>
     <td><h3 class="recipe-table__heading">Total Time</h3></td>
     <td><h3 class="recipe-table__heading">Prep Time</h3></td>
+    {%if include.bakeTime %}
     <td><h3 class="recipe-table__heading">Bake Time</h3></td>
+    {%endif %}
+    {%if include.waitTime %}
+    <td><h3 class="recipe-table__heading">Wait Time</h3></td>
+    {%endif %}
     <td><h3 class="recipe-table__heading">Makes</h3></td>
   </tr>
   <tr>
     <td class="recipe-table__info">{{ include.totalTime }}</td>
     <td class="recipe-table__info">{{ include.prepTime }}</td>
+    {%if include.bakeTime %}
     <td class="recipe-table__info">{{ include.bakeTime }}</td>
+    {%endif %}
+    {%if include.waitTime %}
+    <td class="recipe-table__info">{{ include.waitTime }}</td>
+    {%endif %}
     <td class="recipe-table__info">{{ include.makes }}</td>
   </tr>
 </table>
