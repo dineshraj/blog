@@ -22,7 +22,6 @@ image: /assets/default-social.jpg # 1200 x 630
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: dgoomani@gmail.com
   facebook:
   flickr: dgoomany
