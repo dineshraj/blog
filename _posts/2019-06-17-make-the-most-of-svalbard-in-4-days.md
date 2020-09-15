@@ -30,16 +30,16 @@ As for the activities below, you'll want to book them well in advance, [Visit Sv
 ## Itinerary Overview
 
 ### [Day One](#day-one-1)
-- Husky sledding, Svalbar Pub, Explore Longyearbyern
+- Husky sledding, Svalbard Pub (food + drinks), Explore Longyearbyern
 
 ### [Day Two](#day-two-1)
-- Longyearbyern walking tour, Whale safari, Karlsberger Pub
+- Longyearbyern walking tour (Svalbard Kirke, mining depot, governers house), Whale safari (BBQ on board), Karlsberger Pub
 
 ### [Day Three](#day-three-1)
 - Grotto tour, Brewery visit, Mary-Ann's Polarrigg (food)
 
 ### [Day Four](#day-four-1)
-- Scenic photo tour (inc seed vault), Plateau mountain
+- Scenic photo tour (seed vault, arctic turns, mines), Plateau mountain
 
 ## Day One
 
