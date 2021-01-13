@@ -153,7 +153,16 @@ Afterwards, head back to one of the bars and enjoy your last night in Svalbard.
 - Scenic photo tour (seed vault, arctic turns, mines)
 - Plateau mountain
 
+First up today is a Scenic photo tour from a local. This is a car based tour so there isn't as much walking and also it means you can go much further out than the walking tour a few days ago. 
 
+You'll still get a lot of history and background of everywhere you go, but the emphasis is on some great views and visiting some landmarks that are not in walking distance. 
+
+One of the main landmarks you'll see is the famous Seed Vault. It is a long-term seed storage facility, built to withstand any challenge, either natural or man-made disasters. You'll also see some Arctic Terns, hopefully some Arctic Foxes and more of a close up of some mine shafts that the Nazis blew up during World War II.
+
+Your final trip in Svalbard is a hike up Plateau mountain, which is a relatively long snowy hike up to the top of a mountain where you will be given some amazing views of Longyearbyern. If you want a really fun (but wet way down), you can slide down the first half of the mountain till it starts to get rocky! 
+
+
+Hopefully you've had an amazing time in Svalbard. It's a trip you'll remember forever and you've probably gone further northe than most people in the world. Hopefully this guide has been some help to you too, thanks for reading! 
 
 
 [intro]: /assets/svalbard/social.jpg "Welcome to the Arctic Circle"
