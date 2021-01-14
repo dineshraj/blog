@@ -75,7 +75,7 @@ _Note: The large kennels may seem cruel to some but the handlers assure that the
 
 After a while, the handlers will pick out a few dogs to take on the ride. There are six huskies per sled and there may be about 5 sleds in total.
 
-You kow will get the fun and surprisingly hard task of harnessing the dogs. They are incredibly energetic and won't sit still, especially now they've seen the vast plains of snow! They are also quite strong too, however if you need help the handlers will be around.
+You now will get the fun and surprisingly hard task of harnessing the dogs. They are incredibly energetic and won't sit still, especially now they've seen the vast plains of snow! They are also quite strong too, however if you need help the handlers will be around.
 
 After they are successfully tied to the sleds and learned how to control the sleds, you'll be off! Gliding through the snow and glaciers. You'll be on the sleds in pairs and will take turns after a break halfway through. 
 
@@ -83,7 +83,7 @@ Enjoy the scenery, it is absolutely breathtaking and has largely been untouched 
 
 {% include image.html url='/assets/svalbard/husky-in-snow.jpg' caption='Huskies chilling in the snow' %}
 
-In what will feel like too short a time, you'll be back at the kennels for some complementary biscuits, and drinks (alcoholic too!) and be taken back to town. 
+In what will feel like too short a time, you'll be back at the kennels for some complimentary biscuits, and drinks (alcoholic too!) and be taken back to town. 
 
 Take this moment to get some food and drinks! Drop into Svalbar, which is a pub on the main high street of Longyearbyen and would fit in any modern capital city. They serve great food and draught or bottled beer. 
 
