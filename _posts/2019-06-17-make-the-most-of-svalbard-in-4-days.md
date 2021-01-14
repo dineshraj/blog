@@ -21,6 +21,8 @@ Speaking of AirBnBs, I'd recommend going for these. There are a few hotel but th
 
 Prepare for weather! This article is from a June holiday, so around the city itself there isn't much snow, but as soon as you leave the time you have endless slow and glaciers so wrap up warm. Also June is in the "summer sun" season where the sun stays high in the sky for 24 hours a day. As fun as this is this can be disorienting, so make sure you try and sleep at a regular-ish time (the bars close at 2am so there's not much to do after this anyway).
 
+<!-- more -->
+
 _Note: If you're going in the winter months, there is pure darkness for 24 hours a day._
 
 Also alcohol. There is one shop in the city center that sells alcohol and you have to show your boarding pass each time you want to buy any. There is a limit too (even for residents), due to the extreme weather and sun cycles causing people to tend towards more extreme behaviour. 
@@ -45,7 +47,7 @@ As for the activities below, you'll want to book them well in advance, [Visit Sv
 
 ## Day One
 
-<!-- PICTURE -->
+![alt text][sledding]
 
 **Things to do**
  - Husky sledding
@@ -58,17 +60,19 @@ The coach is taken just outside the airport and arrives quite frequently. You'll
 
 Once you get off the coach take note of the huge metal polar bear sculpture, it's really impressive! 
 
-<!-- POLAR BEAR SCULPTURE PICTURE -->
+{% include image.html url='/assets/svalbard/bear.jpg' caption='Bear Sculpture' %}
 
 If check in is open at your hotel or AirBnB it's suggested you go there, drop your bags, freshen up and get ready to start your adventure, with the first thing being husky sledding! 
 
-<!-- HUSKY SLEDDING VIDEO -->
+{% include video.html video='/assets/svalbard/husky-ride.mp4' caption='Husky sledding through the snow' %}
 
 A lot of people say save the best for last, but why? Husky sledding will be one of the best experiences you'll ever have.
 
 You'll get picked up by a car and given about 30mins to a remote kennel complex. Here you'll be given a warm boiler suit, boots and a hi-vis jacket to wear. After this you get to go into the kennels are play with the huskies for a while, they are all super friend and super energetic (you've been warned).
 
 _Note: The large kennels may seem cruel to some but the handlers assured me that they care for the dogs greatly and even live on site in case anything happens. They are much happier here than living in warm climates or city apartments._
+
+{% include image.html url='/assets/svalbard/husky.jpg' caption='A husky waiting to hit the snow' %}
 
 After a while the handlers will pick our a few dogs to take on the ride. There are six huskies per sled and there may be about 5 sleds in total.
 
@@ -78,7 +82,7 @@ After they are successfully tied to the sleds and learnt how to control the sled
 
 Enjoy the scenery, it is absolutely breathtaking and has large been untouched by humans. 
 
-<!-- picture of sledding -->
+{% include image.html url='/assets/svalbard/husky-in-snow.jpg' caption='Huskies chilling in the snow' %}
 
 In what will feel like too short a time, you'll be back at the kennels for some complementary bisuits, and drinks (alcoholic too!) and be taken back to town. 
 
@@ -86,20 +90,26 @@ Take this moment to get some food and drinks! Drop into Svalbar, which is a pub 
 
 Now it is time to have a walk around and explore Longyearbyern, if you stay in Svalbar till late, the sun will still be sky high so there's no need to worry about it getting dark. Walk up to the lake past the docks and see the polar bear warning sign. 
 
-<!-- picture of polar bear warning sign -->
+{% include image.html url='/assets/svalbard/polar-bear-sign.jpg' caption='Polar bear warning sign' %}
 
 After which it is probably time get some sleep! 
 
 ## Day Two
 
-<!-- PICTURE -->
+![alt text][lake]
 
 **Things to do**
  - Longyearbyern walking tour (Svalbard Kirke, mining depot, governers house)
  - Whale safari (BBQ on board)
  - Karlsberger Pub
 
-You'll start off the day, quite early in fact, on a walking tour from a local guide. You'll get to see a lot more of Longyearbyern and some interesting facts, features, a lot of history. Also some more sobering facts about climate change and the current effect it's having on wildlife in the area, especially polar bears, and also for residents. You'll hear how a very small increase in temperate can cause permafrost to start defrosting and how this has caused a landslide in recent years. 
+You'll start off the day, quite early in fact, on a walking tour from a local guide. You'll get to see a lot more of Longyearbyern and some interesting facts, features, a lot of history. Also some more sobering facts about climate change and the current effect it's having on wildlife in the area, especially polar bears, and also for residents.
+
+{% include image.html url='/assets/svalbard/mining.jpg' caption='Longyearbyern\'s mining history' %}
+
+You'll hear how a very small increase in temperate can cause permafrost to start defrosting and how this has caused a landslide in recent years. Hopefully you'll also spot some arctic animals on your walk!
+
+{% include image.html url='/assets/svalbard/reindeer.jpg' caption='Two Svalbard reindeer' %}
 
 The mining history is very interesting, and how this gave birth to Longyearbyern, the second largest town of Barentsburg, and also the abandoned nearby Russian town of Pyramiden.
 
@@ -107,16 +117,20 @@ Again this is also a great opportunity for some photography, especially the view
 
 Next up is a whale safari. You'll go down to the dock, board a ship and be given some boiler suits similar to the sledding. From then on you'll sail quite north in search of belugas and humpback whales. These are not always visible so don't be too disappointed if you don't see one, but the feeling of being on a ship this far north is still an incredible one. 
 
+{% include image.html url='/assets/svalbard/ship-view.jpg' caption='The amazing view from the ship' %}
+
 You'll soon get some food from a lower deck and then slowly return back to the Longyearbyern dock. 
 
 _Note this only runs from 1 June 2021 - 31 Aug 2021._
 
 Your final stop for the day is the Karlsberger Pub. Found on the main street, this pub looks amazing with bottles lining the entire bar. It is quite small but then so is the town so go in for a drink and see where the night takes you. 
 
-==================================================================================================
+{% include image.html url='/assets/svalbard/Karlsberger.jpg' caption='Karlsberger Pub' %}
+
+
 ## Day Three
 
-<!-- PICTURE -->
+![alt text][snow]
 
 **Things to do**
 - Grotto tour
@@ -127,9 +141,13 @@ It's another early start today, this time for a Grotto tour. Whilst this may sou
 
 After putting on some shoes which resemble tennis rackets, you'll head out for a walk up a glacier. This isn't the easiest walk in the world and involves some scrambling so makes sure you're of relatively decent fitness. 
 
+{% include image.html url='/assets/svalbard/snow-walk.jpg' caption='Walking in the snow' %}
+
 The vast snow plains are an amazing site to behold though, it feels like another world. 
 
 Once you arrive at the entrance to the ice cave, you'll get a little drink and descend down. It initially looks just like a whole in the ground, but as you go through another world reveals itself. Everything around in just pure ice and it is truly beautiful with all the colours and shapes. 
+
+{% include image.html url='/assets/svalbard/ice-cave.jpg' caption='Entrance to the ice cave' %}
 
 This is probably the slippiest place in the world though so walk carefully! 
 
@@ -141,13 +159,15 @@ It's a small affair at the moment, with only three tanks but they plan to expand
 
 After all that walking and beer tasting you deserve some great food. Head over to Mary-Ann's Polarrigg, which is a quirky looking hotel with a great restaurant attached to it, full of plants and greenery, with floor to ceiling windows so you can admire the view.
 
+{% include image.html url='/assets/svalbard/steak.jpg' caption='Whale steak' %}
+
 This may be controversial for some but they do serve whale and seal steaks here, which is something that is worth experiencing once. 
 
 Afterwards, head back to one of the bars and enjoy your last night in Svalbard. 
 
 ## Day Four
 
-<!-- PICTURE -->
+![alt text][mountain]
 
 **Things to do**
 - Scenic photo tour (seed vault, arctic turns, mines)
@@ -157,12 +177,19 @@ First up today is a Scenic photo tour from a local. This is a car based tour so 
 
 You'll still get a lot of history and background of everywhere you go, but the emphasis is on some great views and visiting some landmarks that are not in walking distance. 
 
+{% include image.html url='/assets/svalbard/seed-vault.jpg' caption='Svalbard Seed vault' %}
+
 One of the main landmarks you'll see is the famous Seed Vault. It is a long-term seed storage facility, built to withstand any challenge, either natural or man-made disasters. You'll also see some Arctic Terns, hopefully some Arctic Foxes and more of a close up of some mine shafts that the Nazis blew up during World War II.
 
 Your final trip in Svalbard is a hike up Plateau mountain, which is a relatively long snowy hike up to the top of a mountain where you will be given some amazing views of Longyearbyern. If you want a really fun (but wet way down), you can slide down the first half of the mountain till it starts to get rocky! 
 
+{% include image.html url='/assets/svalbard/mountain-view.jpg' caption='Mountain view' %}
 
 Hopefully you've had an amazing time in Svalbard. It's a trip you'll remember forever and you've probably gone further northe than most people in the world. Hopefully this guide has been some help to you too, thanks for reading! 
 
 
 [intro]: /assets/svalbard/social.jpg "Welcome to the Arctic Circle"
+[sledding]: /assets/svalbard/day-1.jpg "Husky sledding"
+[lake]: /assets/svalbard/day-2.jpg "Icy lake"
+[snow]: /assets/svalbard/day-3.jpg "Walking in the snow"
+[mountain]: /assets/svalbard/day-4.jpg "Scenic view in Longyearbyern"
