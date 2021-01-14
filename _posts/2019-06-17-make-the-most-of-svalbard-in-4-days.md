@@ -89,7 +89,7 @@ Take this moment to get some food and drinks! Drop into Svalbar, which is a pub 
 
 Now it is time to have a walk around and explore Longyearbyen, if you stay in Svalbar till late, the sun will still be sky high so there's no need to worry about it getting dark. Walk up to the lake past the docks and see the polar bear warning sign. 
 
-{% include image.html url='/assets/svalbard/polar-bear-sign.jpg' caption='Polar bear warning sign' %}
+{% include image.html url='/assets/svalbard/polar-bear-sign.jpg' caption='Polar bear warning sign, seen at around midnight in June' %}
 
 After which it is probably time to get some sleep! 
 
@@ -114,7 +114,7 @@ The mining history is very interesting, and how this gave birth to Longyearbyen,
 
 Again this is also a great opportunity for some photography, especially the view from the Svalbard Church. 
 
-Next up is a whale safari. You'll go down to the dock, board a ship, and be given some boiler suits similar to the sledding. From then on you'll sail quite far north in search of belugas and humpback whales. These are not always visible so don't be too disappointed if you don't see one, but the feeling of being on a ship this far north is still an incredible one. 
+Next up is a whale safari. You'll go down to the dock, board a ship, and be given some boiler suits similar to the sledding. From then on you'll sail quite far north in search of belugas and humpback whales. These are not always visible so don't be too disappointed if you don't see one, but the feeling of being on a ship this far north is still an incredible one. There are probably fewer than 100 people on the planet as far north as you are at this point! 
 
 {% include image.html url='/assets/svalbard/ship-view.jpg' caption='The amazing view from the ship' %}
 
