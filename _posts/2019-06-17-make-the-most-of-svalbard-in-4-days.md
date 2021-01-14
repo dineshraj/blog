@@ -67,7 +67,7 @@ If check-in is open at your hotel or Airbnb it's suggested you go there, drop yo
 
 A lot of people say save the best for last, but why? Husky sledding will be one of the best experiences you'll ever have.
 
-You'll get picked up by a car and given about 30mins to a remote kennel complex. Here you'll be given a warm boiler suit, boots and a hi-vis jacket to wear. After this you get to go into the kennels are play with the huskies for a while, they are all super friendly and super energetic (you've been warned).
+You'll get picked up by a car and driven about 30mins to a remote kennel complex. Here you'll be given a warm boiler suit, boots and a hi-vis jacket to wear. After this you get to go into the kennels are play with the huskies for a while, they are all super friendly and super energetic (you've been warned).
 
 _Note: The large kennels may seem cruel to some but the handlers assure that they care for the dogs greatly and even live on-site in case anything happens. They are much happier here than living in warm climates or city apartments._
 
@@ -77,7 +77,7 @@ After a while, the handlers will pick out a few dogs to take on the ride. There 
 
 You now will get the fun and surprisingly hard task of harnessing the dogs. They are incredibly energetic and won't sit still, especially now they've seen the vast plains of snow! They are also quite strong too, however if you need help the handlers will be around.
 
-After they are successfully tied to the sleds and learned how to control the sleds, you'll be off! Gliding through the snow and glaciers. You'll be on the sleds in pairs and will take turns after a break halfway through. 
+After they are successfully tied to the sleds and you've learned how to control the sleds, you'll be off! Gliding through the snow and glaciers. You'll be on the sleds in pairs and will take turns after a break halfway through. 
 
 Enjoy the scenery, it is absolutely breathtaking and has largely been untouched by humans. 
 
@@ -102,7 +102,7 @@ After which it is probably time to get some sleep!
  - Whale safari (BBQ on board)
  - Karlsberger Pub
 
-You'll start off the day, quite early in fact, on a walking tour from a local guide. You'll get to see a lot more of Longyearbyen and some interesting facts, features, a lot of history. Also some more sobering facts about climate change and the current effect it's having on wildlife in the area, especially polar bears, and also for residents.
+You'll start off the day, quite early in fact, on a walking tour from a local guide. You'll get to see a lot more of Longyearbyen and learn some interesting facts, features, a lot of history. Also some more sobering facts about climate change and the current effect it's having on wildlife in the area, especially polar bears, and also for residents.
 
 {% include image.html url='/assets/svalbard/mining.jpg' caption='Longyearbyen\'s mining history' %}
 
@@ -114,7 +114,7 @@ The mining history is very interesting, and how this gave birth to Longyearbyen,
 
 Again this is also a great opportunity for some photography, especially the view from the Svalbard Church. 
 
-Next up is a whale safari. You'll go down to the dock, board a ship, and be given some boiler suits similar to the sledding. From then on you'll sail quite north in search of belugas and humpback whales. These are not always visible so don't be too disappointed if you don't see one, but the feeling of being on a ship this far north is still an incredible one. 
+Next up is a whale safari. You'll go down to the dock, board a ship, and be given some boiler suits similar to the sledding. From then on you'll sail quite far north in search of belugas and humpback whales. These are not always visible so don't be too disappointed if you don't see one, but the feeling of being on a ship this far north is still an incredible one. 
 
 {% include image.html url='/assets/svalbard/ship-view.jpg' caption='The amazing view from the ship' %}
 
