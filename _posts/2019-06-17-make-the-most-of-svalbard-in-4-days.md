@@ -10,9 +10,9 @@ image: /assets/svalbard/social.jpg
 
 ## Intro
 
-Have you ever wanted to go to the arctic circle? It's easy, if you don't think that's true, check out [this video from Tom Scott](https://www.youtube.com/watch?v=eFJ-ze2-SqU) on how to visit Svalbard. 
+Have you ever wanted to go to the Arctic Circle? It's easy, if you don't think that's true, check out [this video from Tom Scott](https://www.youtube.com/watch?v=eFJ-ze2-SqU) on how to visit Svalbard. 
 
-Despite the sound of the words "arctic circle", it's not nearly as remote as you might think. It is sparsely populated though, and the only "city" there, Longyearbyen, houses a small population of roughly 2000. 
+Despite the sound of the words "Arctic Circle", it's not nearly as remote as you might think. It is sparsely populated though, and the only "city" there, Longyearbyen, houses a small population of roughly 2000. 
 
 It was settled when mining was a big source of income in the area and it is becoming a more popular tourist destination. They have some bars that wouldn't look out of place in Shoreditch (London) and AirBnBs and fast WiFi (mainly because of the research also done there).
 
@@ -53,7 +53,7 @@ As for the activities below, you'll want to book them well in advance, [Visit Sv
  - Svalbard Pub (food + drinks)
  - Explore Longyearbyen
 
-So you've just landed? You'll arrive at a tiny airport, aptly named Svalbard Airport and you'll have a short coach trip to the city center. But first, take a look at your surroundings! You probably haven't been to the arctic circle before so take in as much as you can; you're in the northernmost capital of the world! 
+So you've just landed? You'll arrive at a tiny airport, aptly named Svalbard Airport and you'll have a short coach trip to the city center. But first, take a look at your surroundings! You probably haven't been to the Arctic Circle before so take in as much as you can; you're in the northernmost capital of the world! 
 
 The coach is taken just outside the airport and arrives quite frequently. You'll pay onboard so sit back and enjoy the ride. 
 
@@ -154,7 +154,7 @@ After a fair bit of descent, it'll be time to turn back as any further and it's 
 
 Next up is a brewery visit. Yes, Longyearbyen has its own brewery! They produce the Spitsbergen brand of beers and some of the water comes from 2000 years old glaciers! 
 
-It's a small affair at the moment, with only three tanks but they plan to expand and have some deals with nordic airlines too. You'll get to sample a fair few types of beer here and also buy some souvenir glasses and t-shirts.  
+It's a small affair at the moment, with only three tanks but they plan to expand and have some deals with Nordic airlines too. You'll get to sample a fair few types of beer here and also buy some souvenir glasses and t-shirts.  
 
 After all that walking and beer tasting, you deserve some great food. Head over to Mary-Ann's Polarrigg, which is a quirky looking hotel with a great restaurant attached to it, full of plants and greenery, with floor to ceiling windows so you can admire the view.
 
