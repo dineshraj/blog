@@ -10,9 +10,7 @@ image: /assets/svalbard/social.jpg
 
 ## Intro
 
-* Ever wanted to go to the arctic circle? It's easy, if you don't think that's true, check out [this video from Tom Scott](https://www.youtube.com/watch?v=eFJ-ze2-SqU) on how to visit Svalbard. 
-
-The only catch is that you have to go via Norway, or more specifically Oslo. 
+Have you ever wanted to go to the arctic circle? It's easy, if you don't think that's true, check out [this video from Tom Scott](https://www.youtube.com/watch?v=eFJ-ze2-SqU) on how to visit Svalbard. 
 
 Despite the sound of the words "arctic circle", it's not nearly as remote as you might think. It is sparsely populated though, and the only "city" there, Longyearbyen, houses a small population of roughly 2000. 
 
