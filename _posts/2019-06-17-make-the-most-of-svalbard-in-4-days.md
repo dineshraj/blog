@@ -188,7 +188,7 @@ Your final trip in Svalbard is a hike up Plateau mountain, which is a relatively
 
 Hopefully, you've had an amazing time in Svalbard. It's a trip you'll remember forever and you've probably gone further north than most people in the world. As mentioned earlier, if you want to book any of the afforementioned activities [Visit Svalbard](https://en.visitsvalbard.com/) is recommended as the one-stop place to book everything you need. Also flights to Oslo or Tomsø are readily available. Hopefully this guide has been some help to you too, thanks for reading!
 
-[map]: /assets/svalbard/map.jpg "Location of Svalbard in comparison to Europe"
+[map]: /assets/svalbard/map.png "Location of Svalbard in comparison to Europe"
 [intro]: /assets/svalbard/social.jpg "Welcome to the Arctic Circle"
 [sledding]: /assets/svalbard/day-1.jpg "Husky sledding"
 [lake]: /assets/svalbard/day-2.jpg "Icy lake"
