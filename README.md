@@ -11,3 +11,8 @@ Instal RVM (use the gpg command from https://rvm.io/rvm/install first):
 ## Usage
 
 `bundle exec jekyll server`
+
+## Alternatively, run in a Docker image
+
+`cd path/to/blog`
+`docker run --rm -v $(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll:latest jekyll serve`
