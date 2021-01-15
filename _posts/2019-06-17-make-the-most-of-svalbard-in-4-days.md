@@ -14,7 +14,7 @@ Have you ever wanted to go to the Arctic Circle? It's easy, if you don't think t
 
 Despite the sound of the words "Arctic Circle", it's not nearly as remote as you might think. It is sparsely populated though, and the only "city" there, Longyearbyen, houses a small population of roughly 2000. 
 
-![alt text][map]
+{% include image.html url='/assets/svalbard/map.png' caption='Location of Svalbard in comparison to Europe' %}
 
 It was settled when mining was a big source of income in the area and it is becoming a more popular tourist destination. They have some bars that wouldn't look out of place in Shoreditch (London) and AirBnBs and fast WiFi (mainly because of the research also done there).
 
@@ -188,7 +188,6 @@ Your final trip in Svalbard is a hike up Plateau mountain, which is a relatively
 
 Hopefully, you've had an amazing time in Svalbard. It's a trip you'll remember forever and you've probably gone further north than most people in the world. As mentioned earlier, if you want to book any of the afforementioned activities [Visit Svalbard](https://en.visitsvalbard.com/) is recommended as the one-stop place to book everything you need. Also flights to Oslo or Tomsø are readily available. Hopefully this guide has been some help to you too, thanks for reading!
 
-[map]: /assets/svalbard/map.png "Location of Svalbard in comparison to Europe"
 [intro]: /assets/svalbard/social.jpg "Welcome to the Arctic Circle"
 [sledding]: /assets/svalbard/day-1.jpg "Husky sledding"
 [lake]: /assets/svalbard/day-2.jpg "Icy lake"
