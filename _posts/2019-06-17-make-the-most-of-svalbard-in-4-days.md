@@ -126,7 +126,7 @@ _Note this only runs from 1 June 2021 - 31 Aug 2021._
 
 Your final stop for the day is the Karlsberger Pub. Found on the main street, this pub looks amazing with bottles lining the entire bar. It is quite small but then so is the town so go in for a drink and see where the night takes you. 
 
-{% include image.html url='/assets/svalbard/Karlsberger.jpg' caption='Karlsberger Pub' %}
+{% include image.html url='/assets/svalbard/karlsberger.jpg' caption='Karlsberger Pub' %}
 
 
 ## Day Three
