@@ -10,9 +10,9 @@ image: /assets/svalbard/social.jpg
 
 ## Intro
 
-Have you ever wanted to go to the arctic circle? It's easy, if you don't think that's true, check out [this video from Tom Scott](https://www.youtube.com/watch?v=eFJ-ze2-SqU) on how to visit Svalbard. 
+Have you ever wanted to go to the Arctic Circle? It's easy, if you don't think that's true, check out [this video from Tom Scott](https://www.youtube.com/watch?v=eFJ-ze2-SqU) on how to visit Svalbard. 
 
-Despite the sound of the words "arctic circle", it's not nearly as remote as you might think. It is sparsely populated though, and the only "city" there, Longyearbyen, houses a small population of roughly 2000. 
+Despite the sound of the words "Arctic Circle", it's not nearly as remote as you might think. It is sparsely populated though, and the only "city" there, Longyearbyen, houses a small population of roughly 2000. 
 
 It was settled when mining was a big source of income in the area and it is becoming a more popular tourist destination. They have some bars that wouldn't look out of place in Shoreditch (London) and AirBnBs and fast WiFi (mainly because of the research also done there).
 
@@ -53,7 +53,7 @@ As for the activities below, you'll want to book them well in advance, [Visit Sv
  - Svalbard Pub (food + drinks)
  - Explore Longyearbyen
 
-So you've just landed? You'll arrive at a tiny airport, aptly named Svalbard Airport and you'll have a short coach trip to the city center. But first, take a look at your surroundings! You probably haven't been to the arctic circle before so take in as much as you can; you're in the northernmost capital of the world! 
+So you've just landed? You'll arrive at a tiny airport, aptly named Svalbard Airport and you'll have a short coach trip to the city center. But first, take a look at your surroundings! You probably haven't been to the Arctic Circle before so take in as much as you can; you're in the northernmost capital of the world! 
 
 The coach is taken just outside the airport and arrives quite frequently. You'll pay onboard so sit back and enjoy the ride. 
 
@@ -67,7 +67,7 @@ If check-in is open at your hotel or Airbnb it's suggested you go there, drop yo
 
 A lot of people say save the best for last, but why? Husky sledding will be one of the best experiences you'll ever have.
 
-You'll get picked up by a car and given about 30mins to a remote kennel complex. Here you'll be given a warm boiler suit, boots and a hi-vis jacket to wear. After this you get to go into the kennels are play with the huskies for a while, they are all super friendly and super energetic (you've been warned).
+You'll get picked up by a car and driven about 30mins to a remote kennel complex. Here you'll be given a warm boiler suit, boots and a hi-vis jacket to wear. After this you get to go into the kennels are play with the huskies for a while, they are all super friendly and super energetic (you've been warned).
 
 _Note: The large kennels may seem cruel to some but the handlers assure that they care for the dogs greatly and even live on-site in case anything happens. They are much happier here than living in warm climates or city apartments._
 
@@ -75,21 +75,21 @@ _Note: The large kennels may seem cruel to some but the handlers assure that the
 
 After a while, the handlers will pick out a few dogs to take on the ride. There are six huskies per sled and there may be about 5 sleds in total.
 
-You kow will get the fun and surprisingly hard task of harnessing the dogs. They are incredibly energetic and won't sit still, especially now they've seen the vast plains of snow! They are also quite strong too, however if you need help the handlers will be around.
+You now will get the fun and surprisingly hard task of harnessing the dogs. They are incredibly energetic and won't sit still, especially now they've seen the vast plains of snow! They are also quite strong too, however if you need help the handlers will be around.
 
-After they are successfully tied to the sleds and learned how to control the sleds, you'll be off! Gliding through the snow and glaciers. You'll be on the sleds in pairs and will take turns after a break halfway through. 
+After they are successfully tied to the sleds and you've learned how to control the sleds, you'll be off! Gliding through the snow and glaciers. You'll be on the sleds in pairs and will take turns after a break halfway through. 
 
 Enjoy the scenery, it is absolutely breathtaking and has largely been untouched by humans. 
 
 {% include image.html url='/assets/svalbard/husky-in-snow.jpg' caption='Huskies chilling in the snow' %}
 
-In what will feel like too short a time, you'll be back at the kennels for some complementary biscuits, and drinks (alcoholic too!) and be taken back to town. 
+In what will feel like too short a time, you'll be back at the kennels for some complimentary biscuits, and drinks (alcoholic too!) and be taken back to town. 
 
 Take this moment to get some food and drinks! Drop into Svalbar, which is a pub on the main high street of Longyearbyen and would fit in any modern capital city. They serve great food and draught or bottled beer. 
 
 Now it is time to have a walk around and explore Longyearbyen, if you stay in Svalbar till late, the sun will still be sky high so there's no need to worry about it getting dark. Walk up to the lake past the docks and see the polar bear warning sign. 
 
-{% include image.html url='/assets/svalbard/polar-bear-sign.jpg' caption='Polar bear warning sign' %}
+{% include image.html url='/assets/svalbard/polar-bear-sign.jpg' caption='Polar bear warning sign, seen at around midnight in June' %}
 
 After which it is probably time to get some sleep! 
 
@@ -102,7 +102,7 @@ After which it is probably time to get some sleep!
  - Whale safari (BBQ on board)
  - Karlsberger Pub
 
-You'll start off the day, quite early in fact, on a walking tour from a local guide. You'll get to see a lot more of Longyearbyen and some interesting facts, features, a lot of history. Also some more sobering facts about climate change and the current effect it's having on wildlife in the area, especially polar bears, and also for residents.
+You'll start off the day, quite early in fact, on a walking tour from a local guide. You'll get to see a lot more of Longyearbyen and learn some interesting facts, features, a lot of history. Also some more sobering facts about climate change and the current effect it's having on wildlife in the area, especially polar bears, and also for residents.
 
 {% include image.html url='/assets/svalbard/mining.jpg' caption='Longyearbyen\'s mining history' %}
 
@@ -114,7 +114,7 @@ The mining history is very interesting, and how this gave birth to Longyearbyen,
 
 Again this is also a great opportunity for some photography, especially the view from the Svalbard Church. 
 
-Next up is a whale safari. You'll go down to the dock, board a ship, and be given some boiler suits similar to the sledding. From then on you'll sail quite north in search of belugas and humpback whales. These are not always visible so don't be too disappointed if you don't see one, but the feeling of being on a ship this far north is still an incredible one. 
+Next up is a whale safari. You'll go down to the dock, board a ship, and be given some boiler suits similar to the sledding. From then on you'll sail quite far north in search of belugas and humpback whales. These are not always visible so don't be too disappointed if you don't see one, but the feeling of being on a ship this far north is still an incredible one. There are probably fewer than 100 people on the planet as far north as you are at this point! 
 
 {% include image.html url='/assets/svalbard/ship-view.jpg' caption='The amazing view from the ship' %}
 
@@ -154,7 +154,7 @@ After a fair bit of descent, it'll be time to turn back as any further and it's 
 
 Next up is a brewery visit. Yes, Longyearbyen has its own brewery! They produce the Spitsbergen brand of beers and some of the water comes from 2000 years old glaciers! 
 
-It's a small affair at the moment, with only three tanks but they plan to expand and have some deals with nordic airlines too. You'll get to sample a fair few types of beer here and also buy some souvenir glasses and t-shirts.  
+It's a small affair at the moment, with only three tanks but they plan to expand and have some deals with Nordic airlines too. You'll get to sample a fair few types of beer here and also buy some souvenir glasses and t-shirts.  
 
 After all that walking and beer tasting, you deserve some great food. Head over to Mary-Ann's Polarrigg, which is a quirky looking hotel with a great restaurant attached to it, full of plants and greenery, with floor to ceiling windows so you can admire the view.
 
