@@ -13,11 +13,11 @@ This is a really quick and simple cauliflower cheese recipe, but gives delicious
 {% include recipe-table.html totalTime='35m' prepTime='15m' waitTime='20m' makes='4 portions' %}
 
 Skip to:
-* [Ingredients](#ingredients)
-* [Equipment](#equipment)
-* [Instructions](#instructions)
+* [Ingredients](#cauliflower-cheese-ingredients)
+* [Equipment](#cauliflower-cheese-equipment)
+* [Instructions](#cauliflower-cheese-instructions)
 
-## Ingredients
+## Ingredients {#cauliflower-cheese-ingredients}
 * **1 slice** of brown bread
 * **1** Large cauliflower (no leaves and broken into pieces)
 * **500ml** Whole milk
@@ -25,7 +25,9 @@ Skip to:
 * **50g** Butter
 * **200g** Grated mature cheddar
 
-## Equipment
+{% include image.html url='/assets/cauliflower-cheese/ingredients.jpg' caption='Ingredients prepped' %}
+
+## Equipment {#cauliflower-cheese-equipment}
 * Baking tray
 * Baking dish
 * Saucepan
@@ -33,7 +35,7 @@ Skip to:
 * Cheese grater
 * Oven
 
-## Instructions
+## Instructions {#cauliflower-cheese-instructions}
 
 
 ### Breadcrumbs
@@ -43,8 +45,6 @@ Skip to:
 <!-- more -->
 
 * Cut a slice of bread into small 1cm squares 
-
-{% include image.html url='/assets/cauliflower-cheese/ingredients.jpg' caption='ingredients prepped' %}
 
 * Spread squares out onto a baking tray and bake for 20mins
 
@@ -64,16 +64,15 @@ Skip to:
 
 * Whisk fast as the butter melts and let the sauce come to the boil.
 
-{% include image.html url='/assets/cauliflower-cheese/sauce.jpg' caption='the sauce for our cauliflower cheese whilst adding cheese' %}
-
 * Once all the ingredients are combined, whisk for 2 mins while the sauce bubbles and thickens.
-
 
 * Turn off the heat and stir in most of the cheese (about 150g) until melted.
 
-{% include image.html url='/assets/cauliflower-cheese/pour.jpg' caption='pouring the sauce over the cauliflower' %}
+{% include image.html url='/assets/cauliflower-cheese/sauce.jpg' caption='The sauce for our cauliflower cheese whilst adding cheese' %}
 
 * Pour the mixture over the cauliflower.
+
+{% include image.html url='/assets/cauliflower-cheese/pour.jpg' caption='Pouring the sauce over the cauliflower' %}
  
 * Scatter over the remaining cheese, and 2-3 tbsp of the breadcrumbs.
 
@@ -81,6 +80,6 @@ Skip to:
 
 * Enjoy!
 
-{% include image.html url='/assets/cauliflower-cheese/final.jpg' caption='the end result' %}
+{% include image.html url='/assets/cauliflower-cheese/final.jpg' caption='The end result' %}
 
 [intro]: /assets/cauliflower-cheese/social.jpg "cauliflower cheese"
