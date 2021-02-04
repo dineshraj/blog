@@ -25,6 +25,8 @@ Skip to:
 * **50g** Butter
 * **200g** Grated mature cheddar
 
+{% include image.html url='/assets/cauliflower-cheese/ingredients.jpg' caption='ingredients prepped' %}
+
 ## Equipment {#cauliflower-cheese-equipment}
 * Baking tray
 * Baking dish
@@ -44,8 +46,6 @@ Skip to:
 
 * Cut a slice of bread into small 1cm squares 
 
-{% include image.html url='/assets/cauliflower-cheese/ingredients.jpg' caption='ingredients prepped' %}
-
 * Spread squares out onto a baking tray and bake for 20mins
 
 * Divide into two bags and smash with a rolling pin until the desired size 
@@ -64,16 +64,15 @@ Skip to:
 
 * Whisk fast as the butter melts and let the sauce come to the boil.
 
-{% include image.html url='/assets/cauliflower-cheese/sauce.jpg' caption='the sauce for our cauliflower cheese whilst adding cheese' %}
-
 * Once all the ingredients are combined, whisk for 2 mins while the sauce bubbles and thickens.
-
 
 * Turn off the heat and stir in most of the cheese (about 150g) until melted.
 
-{% include image.html url='/assets/cauliflower-cheese/pour.jpg' caption='pouring the sauce over the cauliflower' %}
+{% include image.html url='/assets/cauliflower-cheese/sauce.jpg' caption='the sauce for our cauliflower cheese whilst adding cheese' %}
 
 * Pour the mixture over the cauliflower.
+
+{% include image.html url='/assets/cauliflower-cheese/pour.jpg' caption='pouring the sauce over the cauliflower' %}
  
 * Scatter over the remaining cheese, and 2-3 tbsp of the breadcrumbs.
 
