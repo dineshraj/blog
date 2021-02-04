@@ -6,7 +6,7 @@ categories: fudge cooking baking recipe
 image: /assets/fudge/social.jpg
 ---
 
-![Quick fudge recipe ][intro]
+![Quick fudge recipe][intro]
 
 This is a really quick and simple fudge recipe, which I got from [Cupcake Jemma's Cookies & Cream Fudge Recipe](https://www.youtube.com/watch?v=GVw23vxNiiA). Unlike "real" fudge, this involves minimal effort but with great end results. 
 
