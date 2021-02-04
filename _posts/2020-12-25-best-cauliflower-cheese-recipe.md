@@ -13,11 +13,11 @@ This is a really quick and simple cauliflower cheese recipe, but gives delicious
 {% include recipe-table.html totalTime='35m' prepTime='15m' waitTime='20m' makes='4 portions' %}
 
 Skip to:
-* [Ingredients](#ingredients)
-* [Equipment](#equipment)
-* [Instructions](#instructions)
+* [Ingredients](#cauliflower-cheese-ingredients)
+* [Equipment](#cauliflower-cheese-equipment)
+* [Instructions](#cauliflower-cheese-instructions)
 
-## Ingredients
+## Ingredients {#cauliflower-cheese-ingredients}
 * **1 slice** of brown bread
 * **1** Large cauliflower (no leaves and broken into pieces)
 * **500ml** Whole milk
@@ -25,7 +25,7 @@ Skip to:
 * **50g** Butter
 * **200g** Grated mature cheddar
 
-## Equipment
+## Equipment {#cauliflower-cheese-equipment}
 * Baking tray
 * Baking dish
 * Saucepan
@@ -33,7 +33,7 @@ Skip to:
 * Cheese grater
 * Oven
 
-## Instructions
+## Instructions {#cauliflower-cheese-instructions}
 
 
 ### Breadcrumbs
