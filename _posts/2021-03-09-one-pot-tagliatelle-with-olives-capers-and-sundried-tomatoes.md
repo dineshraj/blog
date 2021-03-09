@@ -61,7 +61,7 @@ Skip to:
 
 * Stir well and cover the pain with the lid, cook for roughly 10 mins (until the pasta is done), and stir regularly to prevent sticking.
 
-* Stir in the chopped basil, some pepper and salt to taste and then serve
+* Stir in the chopped basil, some pepper and salt to taste and then serve.
 
 * Optionally sprinkle some parmesan cheese on top.
 
