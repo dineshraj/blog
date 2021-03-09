@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  One Pot Tagliatelle with Olives Capers and Sundried Tomatoes Recipe
+title:  One Pot Tagliatelle with Olives, Capers and Sundried Tomatoes Recipe
 date:   2021-03-09 21:00:47 +0000
 categories: pasta tagliatelle olives capers sundried tomatoes
 image: /assets/tagliatelle/social.jpg
@@ -55,11 +55,11 @@ Skip to:
 
 * Bring to the boil and then reduce to a simmer.
 
-{% include important.html text='<strong>Note:</strong> If using a stainless steel pan (or if your non-stick has worn off) keep stiring to ensure the pasta does not stick to the bottom of the pan' %}
+{% include important.html text='<strong>Note:</strong> If using a stainless steel pan (or if your non-stick has worn off) keep stirring to ensure the pasta does not stick to the bottom of the pan' %}
 
 * Add the sugar, capers, olives, sundried tomatoes, chorizo (optional), chillis and the remaining 2 tbsp of olive oil.
 
-* Stir well and cover the pain with the lid, cook for roughly 10 mins (until the pasta is done), and stir regularly to prevent sticking.
+* Stir well and cover the pan with the lid, cook for roughly 10 mins (until the pasta is done), and stir regularly to prevent sticking.
 
 * Stir in the chopped basil, some pepper and salt to taste and then serve.
 
