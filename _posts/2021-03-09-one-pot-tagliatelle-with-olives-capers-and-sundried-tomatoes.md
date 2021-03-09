@@ -47,11 +47,11 @@ Skip to:
 
 * Fry the onions in the oil until they start to go translucent at the edges (roughly 5 minutes).
 
-* Add the 200g of tagliatelle.
+* Add the passata and the water. 
 
-* Cover the tagliatelle with the passata.
+* 200g of tagliatelle.
 
-* Add the water and use a wooden spoon to push down and crack the tagliatelle if it is not fully submerged.
+* uUse a wooden spoon to push down and crack the tagliatelle if it is not fully submerged.
 
 * Bring to the boil and then reduce to a simmer.
 
