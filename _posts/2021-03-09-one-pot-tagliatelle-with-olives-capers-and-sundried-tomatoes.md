@@ -51,7 +51,7 @@ Skip to:
 
 * 200g of tagliatelle.
 
-* uUse a wooden spoon to push down and crack the tagliatelle if it is not fully submerged.
+* Use a wooden spoon to push down and crack the tagliatelle if it is not fully submerged.
 
 * Bring to the boil and then reduce to a simmer.
 
