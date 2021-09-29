@@ -69,4 +69,4 @@ Skip to:
 
 {% include image.html url='/assets/tagliatelle/final.jpg' caption='The end result' %}
 
-[intro]: /assets/tagliatelle/social.jpg " one pot tagliatelle"
+[intro]: /assets/tagliatelle/social.jpg "one pot tagliatelle"
